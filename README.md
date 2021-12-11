@@ -2,7 +2,7 @@
 
 There is a bug in Cyberpunk 2077 that prevents users from receiving quick hacks from breach protocol on access points. This is outlined [on the CD Projekt Red forums](https://forums.cdprojektred.com/index.php?threads/not-getting-quickhacks-from-access-points.11061788) on a number of threads. 
 
-If you'd like to contribute, please create a pull request for request access to the google sheet.
+If you'd like to contribute, please create a pull request or request access to the google sheet.
 
 ### Misunderstandings around quickhacks
 - Quick hacks only display the highest rated version in the Cyberdeck inventory so it can be difficult to determine when you receive a new quick hack. This bug is separate from that behavior. The quick hack inventory display is outlined well in [this comment by Hayte](https://forums.cdprojektred.com/index.php?threads/not-getting-quickhacks-from-access-points.11061788/page-11#post-12938581) on the cyberpunk forums.
