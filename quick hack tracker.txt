@@ -1,0 +1,19 @@
+The Rescue End
+	|
+	|_________Before the Gift Quest without Virtuoso
+	|_________Before Gift with Virtuoso x2
+	|_________After Gift without Virtuoso
+	|_________After Gift 
+	|_________After Gift ping unequipped
+Started the Pickup
+	|
+Talked to Cassidy Ripper
+	|_________Swapped cyberdeck to Biodyne Mk.2
+Completed Act I
+	|
+Playing for Time (Leave apt)
+	|
+Completed the Gift
+	|_________Took extended network interface perk
+	|
+Completed the Gig and got chipped with smart link hand	
