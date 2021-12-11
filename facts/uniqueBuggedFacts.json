@@ -1,0 +1,5017 @@
+[
+  {
+    "Hash": 591985,
+    "FactName": "mq017_kirk_briefing_ended",
+    "Value": 1
+  },
+  {
+    "Hash": 9237240,
+    "FactName": "sts_bls_ina_tier_4",
+    "Value": 1
+  },
+  {
+    "Hash": 11643361,
+    "FactName": "la_street_violence_01_cut_1",
+    "Value": 0
+  },
+  {
+    "Hash": 11940300,
+    "FactName": "sts_cct_cpz_tier_4",
+    "Value": 1
+  },
+  {
+    "Hash": 11961415,
+    "FactName": "ma_wat_lch_07_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 12040974,
+    "FactName": "ma_nid_01_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 13680927,
+    "FactName": "q001_rem_sig_in1_1",
+    "Value": 1
+  },
+  {
+    "Hash": 16913298,
+    "FactName": "lch_06_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 18091748,
+    "FactName": "ma_pac_cvi_07_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 23674761,
+    "FactName": "sts_hey_rey_tier_4",
+    "Value": 1
+  },
+  {
+    "Hash": 26942590,
+    "FactName": "ma_rcr_10_start",
+    "Value": 1
+  },
+  {
+    "Hash": 32132381,
+    "FactName": "q003_06a_leave_garage",
+    "Value": 1
+  },
+  {
+    "Hash": 40204507,
+    "FactName": "ma_nid_13_start",
+    "Value": 1
+  },
+  {
+    "Hash": 40452380,
+    "FactName": "sts_hey_rey_tier_3",
+    "Value": 1
+  },
+  {
+    "Hash": 42897018,
+    "FactName": "holo_wilson_calls_v_start",
+    "Value": 0
+  },
+  {
+    "Hash": 46035474,
+    "FactName": "mq033_misty_tarot_talk_needed",
+    "Value": 1
+  },
+  {
+    "Hash": 53524468,
+    "FactName": "sts_wat_kab_06_target_killed",
+    "Value": 1
+  },
+  {
+    "Hash": 57229999,
+    "FactName": "sts_hey_rey_tier_2",
+    "Value": 1
+  },
+  {
+    "Hash": 57773681,
+    "FactName": "de_nid_09_community_Start",
+    "Value": 1
+  },
+  {
+    "Hash": 65230971,
+    "FactName": "ma_wwd_01_start",
+    "Value": 1
+  },
+  {
+    "Hash": 66025678,
+    "FactName": "ma_pac_wwd_104_start",
+    "Value": 1
+  },
+  {
+    "Hash": 69470861,
+    "FactName": "holo_cynthia_calls_v_end_activate",
+    "Value": 0
+  },
+  {
+    "Hash": 69848972,
+    "FactName": "dtn_05_active",
+    "Value": 1
+  },
+  {
+    "Hash": 71091458,
+    "FactName": "ma_wat_nid_31_start",
+    "Value": 1
+  },
+  {
+    "Hash": 74007618,
+    "FactName": "sts_hey_rey_tier_1",
+    "Value": 1
+  },
+  {
+    "Hash": 93125335,
+    "FactName": "sts_bls_ina_tier_1",
+    "Value": 1
+  },
+  {
+    "Hash": 93618188,
+    "FactName": "ma_wat_nid_01_through",
+    "Value": 1
+  },
+  {
+    "Hash": 104962377,
+    "FactName": "sq027_disable_traffic",
+    "Value": 0
+  },
+  {
+    "Hash": 105678102,
+    "FactName": "nid_03_enemy_brief_end",
+    "Value": 1
+  },
+  {
+    "Hash": 109902954,
+    "FactName": "sts_bls_ina_tier_2",
+    "Value": 1
+  },
+  {
+    "Hash": 112786910,
+    "FactName": "ma_nid_03_start",
+    "Value": 1
+  },
+  {
+    "Hash": 125596096,
+    "FactName": "q005_01_asked_more",
+    "Value": 1
+  },
+  {
+    "Hash": 126680573,
+    "FactName": "sts_bls_ina_tier_3",
+    "Value": 1
+  },
+  {
+    "Hash": 126856155,
+    "FactName": "sq027_panam_talking",
+    "Value": 1
+  },
+  {
+    "Hash": 145731509,
+    "FactName": "sq027_mitch_start_choicesection_glance",
+    "Value": 0
+  },
+  {
+    "Hash": 161732889,
+    "FactName": "ma_wat_lch_12_start",
+    "Value": 1
+  },
+  {
+    "Hash": 165149275,
+    "FactName": "sq027_turret_overheat_counter",
+    "Value": 2
+  },
+  {
+    "Hash": 166669618,
+    "FactName": "sq004_lookout_briefing",
+    "Value": 1
+  },
+  {
+    "Hash": 167599919,
+    "FactName": "ce_wbr_jpn_04_completed",
+    "Value": 1
+  },
+  {
+    "Hash": 169032560,
+    "FactName": "sq027_td_everyone_at_marks",
+    "Value": 1
+  },
+  {
+    "Hash": 174982183,
+    "FactName": "sq031_johnny_set",
+    "Value": 1
+  },
+  {
+    "Hash": 175644173,
+    "FactName": "q104_mitch_cowboy",
+    "Value": 1
+  },
+  {
+    "Hash": 182554177,
+    "FactName": "sq027_ambush_bobby_keepalive",
+    "Value": 0
+  },
+  {
+    "Hash": 182609655,
+    "FactName": "kab_02_lucy_talk_started",
+    "Value": 1
+  },
+  {
+    "Hash": 182666232,
+    "FactName": "#cs_hey_rey_01_sts_counter",
+    "Value": 1
+  },
+  {
+    "Hash": 187014791,
+    "FactName": "sq027_carol_campfire_keepalive",
+    "Value": 1
+  },
+  {
+    "Hash": 188345711,
+    "FactName": "victor_debt_paid_full",
+    "Value": 1
+  },
+  {
+    "Hash": 195468485,
+    "FactName": "q103_camp_drive_dialogue_done",
+    "Value": 1
+  },
+  {
+    "Hash": 201070501,
+    "FactName": "sts_wat_nid_12_max_sit_anim_done",
+    "Value": 1
+  },
+  {
+    "Hash": 201165491,
+    "FactName": "holo_panam_calls_v_start",
+    "Value": 0
+  },
+  {
+    "Hash": 201958229,
+    "FactName": "holo_padre_calls_v_end_activate",
+    "Value": 0
+  },
+  {
+    "Hash": 208686446,
+    "FactName": "holo_cynthia_calls_v_start",
+    "Value": 0
+  },
+  {
+    "Hash": 213700427,
+    "FactName": "kab_02_start",
+    "Value": 1
+  },
+  {
+    "Hash": 216637785,
+    "FactName": "sq004_cassidy_keepalive_intro01",
+    "Value": 1
+  },
+  {
+    "Hash": 218897899,
+    "FactName": "lch_03_start",
+    "Value": 1
+  },
+  {
+    "Hash": 223834975,
+    "FactName": "q104_turret_fixed",
+    "Value": 1
+  },
+  {
+    "Hash": 224359818,
+    "FactName": "sq012_liz_urge",
+    "Value": 1
+  },
+  {
+    "Hash": 231777429,
+    "FactName": "q005_14_body_at_victors",
+    "Value": 1
+  },
+  {
+    "Hash": 232427696,
+    "FactName": "holo_mr_hands_calls_v_start_count",
+    "Value": 2
+  },
+  {
+    "Hash": 236346980,
+    "FactName": "q104_roadhouse_end",
+    "Value": 0
+  },
+  {
+    "Hash": 238316117,
+    "FactName": "kab_04_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 239899039,
+    "FactName": "sq027_PanamTD_Keepalive",
+    "Value": 0
+  },
+  {
+    "Hash": 250597992,
+    "FactName": "ina_03_start",
+    "Value": 1
+  },
+  {
+    "Hash": 254878108,
+    "FactName": "guard_blocking",
+    "Value": 1
+  },
+  {
+    "Hash": 256090795,
+    "FactName": "jpn_01_trunk_banging",
+    "Value": 0
+  },
+  {
+    "Hash": 256602336,
+    "FactName": "jpn_02_first_ground_chat_end",
+    "Value": 1
+  },
+  {
+    "Hash": 258348907,
+    "FactName": "holo_muamar_calls_v_interrupted",
+    "Value": 0
+  },
+  {
+    "Hash": 259505426,
+    "FactName": "choicesection_glance",
+    "Value": 0
+  },
+  {
+    "Hash": 264744337,
+    "FactName": "ma_arr_11_start",
+    "Value": 1
+  },
+  {
+    "Hash": 265937231,
+    "FactName": "holo_dino_calls_v_end_count",
+    "Value": 1
+  },
+  {
+    "Hash": 273812006,
+    "FactName": "holo_panam_calls_v_end_activate",
+    "Value": 0
+  },
+  {
+    "Hash": 287241924,
+    "FactName": "ce_wat_kab_15_completed",
+    "Value": 1
+  },
+  {
+    "Hash": 291977980,
+    "FactName": "q104_calibration_dialogue_done",
+    "Value": 1
+  },
+  {
+    "Hash": 296527662,
+    "FactName": "ma_rcr_12_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 299233882,
+    "FactName": "sts_wat_nid_01_hal_anim_crossed",
+    "Value": 1
+  },
+  {
+    "Hash": 307441748,
+    "FactName": "kab_04_penthouse_left_with_briefcase",
+    "Value": 1
+  },
+  {
+    "Hash": 313242324,
+    "FactName": "kab_07_enemies_alerted",
+    "Value": 1
+  },
+  {
+    "Hash": 313252867,
+    "FactName": "mq040_situation_defused",
+    "Value": 1
+  },
+  {
+    "Hash": 316639752,
+    "FactName": "ma_std_arr_106_start",
+    "Value": 1
+  },
+  {
+    "Hash": 325751806,
+    "FactName": "sts_wat_kab_04_receptionist_sit_anim_done",
+    "Value": 1
+  },
+  {
+    "Hash": 327750093,
+    "FactName": "skillcheck_tutorial_seen",
+    "Value": 1
+  },
+  {
+    "Hash": 331323812,
+    "FactName": "lch_01_halon_intro",
+    "Value": 1
+  },
+  {
+    "Hash": 331332303,
+    "FactName": "sq027_teddy_table_keepalive",
+    "Value": 0
+  },
+  {
+    "Hash": 337000082,
+    "FactName": "q103_player_bootle_empty",
+    "Value": 1
+  },
+  {
+    "Hash": 338246075,
+    "FactName": "ma_wwd_05_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 342679675,
+    "FactName": "q104_calibration_connected_powerplant",
+    "Value": 1
+  },
+  {
+    "Hash": 344471351,
+    "FactName": "q103_gt_transformer_scanned",
+    "Value": 1
+  },
+  {
+    "Hash": 348149431,
+    "FactName": "cs_wat_nid_road_riot_disabled",
+    "Value": 0
+  },
+  {
+    "Hash": 354057501,
+    "FactName": "q103_gt_roof_fusebox_scanned",
+    "Value": 1
+  },
+  {
+    "Hash": 361079479,
+    "FactName": "ma_arr_08_start",
+    "Value": 1
+  },
+  {
+    "Hash": 373497882,
+    "FactName": "sq004_entered_main_building",
+    "Value": 1
+  },
+  {
+    "Hash": 388745708,
+    "FactName": "wat_kab_ripper_01_met",
+    "Value": 1
+  },
+  {
+    "Hash": 390188483,
+    "FactName": "ma_rcr_08_start",
+    "Value": 1
+  },
+  {
+    "Hash": 392509981,
+    "FactName": "ma_nid_02_start",
+    "Value": 1
+  },
+  {
+    "Hash": 403605544,
+    "FactName": "bls_achievement",
+    "Value": 1
+  },
+  {
+    "Hash": 410029228,
+    "FactName": "kab_04_give_shard_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 417001176,
+    "FactName": "holo_elizabeth_calls_v_interrupted",
+    "Value": 0
+  },
+  {
+    "Hash": 427308870,
+    "FactName": "ma_bls_ina_se1_26_active",
+    "Value": 1
+  },
+  {
+    "Hash": 429449989,
+    "FactName": "ma_wat_lch_01_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 429589710,
+    "FactName": "web_charterhill",
+    "Value": 0
+  },
+  {
+    "Hash": 434308548,
+    "FactName": "sq004_storm_active",
+    "Value": 0
+  },
+  {
+    "Hash": 439001215,
+    "FactName": "wat_nid_cloth_01_met",
+    "Value": 1
+  },
+  {
+    "Hash": 440639510,
+    "FactName": "cs_pac_cvi_intervention_disabled",
+    "Value": 0
+  },
+  {
+    "Hash": 445608528,
+    "FactName": "ce_wat_kab_105",
+    "Value": 1
+  },
+  {
+    "Hash": 449585381,
+    "FactName": "sq004_box_interacted",
+    "Value": 1
+  },
+  {
+    "Hash": 451280748,
+    "FactName": "mitch_default_on",
+    "Value": 0
+  },
+  {
+    "Hash": 454917848,
+    "FactName": "gmpl_npc_blocked_attacks",
+    "Value": 22
+  },
+  {
+    "Hash": 456201270,
+    "FactName": "mq002_active",
+    "Value": 0
+  },
+  {
+    "Hash": 459013285,
+    "FactName": "da_active",
+    "Value": 5
+  },
+  {
+    "Hash": 462337694,
+    "FactName": "ma_pac_cvi_12_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 462909524,
+    "FactName": "sq027_train_coupler_destroyed",
+    "Value": 1
+  },
+  {
+    "Hash": 473357051,
+    "FactName": "lch_03_ricky_follow",
+    "Value": 1
+  },
+  {
+    "Hash": 479584714,
+    "FactName": "sq027_ambush_mitch_keepalive",
+    "Value": 0
+  },
+  {
+    "Hash": 484159914,
+    "FactName": "mq015_active",
+    "Value": 1
+  },
+  {
+    "Hash": 488733428,
+    "FactName": "ma_rcr_07_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 491520556,
+    "FactName": "q103_ghost_town_drive",
+    "Value": 0
+  },
+  {
+    "Hash": 492589807,
+    "FactName": "#jpn_12_mail_read",
+    "Value": 1
+  },
+  {
+    "Hash": 496688772,
+    "FactName": "q004_panams_greatlegs",
+    "Value": 0
+  },
+  {
+    "Hash": 498281217,
+    "FactName": "sq027_camping_mitch_drinking",
+    "Value": 0
+  },
+  {
+    "Hash": 502200811,
+    "FactName": "nid_01_radio_stop",
+    "Value": 1
+  },
+  {
+    "Hash": 521284008,
+    "FactName": "lch_06_start",
+    "Value": 1
+  },
+  {
+    "Hash": 527660109,
+    "FactName": "sq004_saul_chase_keepalive",
+    "Value": 0
+  },
+  {
+    "Hash": 533850946,
+    "FactName": "q112_message_start_secret_meeting",
+    "Value": 1
+  },
+  {
+    "Hash": 538579483,
+    "FactName": "sts_wat_kab_03_meds",
+    "Value": 1
+  },
+  {
+    "Hash": 541100968,
+    "FactName": "q103_kill_combat_phase",
+    "Value": 1
+  },
+  {
+    "Hash": 565873124,
+    "FactName": "la_robbery_02_ganger_hit",
+    "Value": 0
+  },
+  {
+    "Hash": 572752668,
+    "FactName": "ina_02_ready",
+    "Value": 1
+  },
+  {
+    "Hash": 584799091,
+    "FactName": "jpn_01_debrief_sts_suceeded_not_perfect",
+    "Value": 1
+  },
+  {
+    "Hash": 586562396,
+    "FactName": "sq027_ambush_teddy_drive_start",
+    "Value": 1
+  },
+  {
+    "Hash": 588490461,
+    "FactName": "holo_v_calls_judy_end_activate",
+    "Value": 0
+  },
+  {
+    "Hash": 588898398,
+    "FactName": "holo_elizabeth_calls_v_start",
+    "Value": 0
+  },
+  {
+    "Hash": 593873086,
+    "FactName": "sq004_no_chase",
+    "Value": 1
+  },
+  {
+    "Hash": 597906830,
+    "FactName": "q105_00_holocall_on",
+    "Value": 0
+  },
+  {
+    "Hash": 603222803,
+    "FactName": "q104_gas_station_ow_com_gone",
+    "Value": 0
+  },
+  {
+    "Hash": 603348011,
+    "FactName": "glossary_glitter",
+    "Value": 1
+  },
+  {
+    "Hash": 605970667,
+    "FactName": "ma_nid_04_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 619325332,
+    "FactName": "nid_12_mj_speaker3_done",
+    "Value": 1
+  },
+  {
+    "Hash": 621087082,
+    "FactName": "ma_wat_lch_13_start",
+    "Value": 1
+  },
+  {
+    "Hash": 621358431,
+    "FactName": "nid_05_radio_stop",
+    "Value": 1
+  },
+  {
+    "Hash": 622682850,
+    "FactName": "nid_02_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 625641015,
+    "FactName": "padre_default_on",
+    "Value": 1
+  },
+  {
+    "Hash": 632254046,
+    "FactName": "saul_dd_in_call",
+    "Value": 0
+  },
+  {
+    "Hash": 632874984,
+    "FactName": "holo_v_calls_takemura_start",
+    "Value": 0
+  },
+  {
+    "Hash": 640413912,
+    "FactName": "ma_pac_wwd_102_start",
+    "Value": 2
+  },
+  {
+    "Hash": 641338072,
+    "FactName": "sq004_saulexited",
+    "Value": 1
+  },
+  {
+    "Hash": 645087702,
+    "FactName": "holo_padre_calls_v_start_activate",
+    "Value": 0
+  },
+  {
+    "Hash": 646697029,
+    "FactName": "holo_muamar_calls_v_start",
+    "Value": 0
+  },
+  {
+    "Hash": 654564445,
+    "FactName": "ma_wat_nid_03_signpost_start",
+    "Value": 1
+  },
+  {
+    "Hash": 659113716,
+    "FactName": "nid_01_hal_rescued",
+    "Value": 1
+  },
+  {
+    "Hash": 667923686,
+    "FactName": "holo_panam_calls_v_end",
+    "Value": 0
+  },
+  {
+    "Hash": 674120470,
+    "FactName": "q104_av_crashed",
+    "Value": 1
+  },
+  {
+    "Hash": 678836994,
+    "FactName": "holo_cynthia_calls_v_start_count",
+    "Value": 1
+  },
+  {
+    "Hash": 681510966,
+    "FactName": "mq010_objective_started",
+    "Value": 1
+  },
+  {
+    "Hash": 687085745,
+    "FactName": "holo_v_calls_reggie_start",
+    "Value": 0
+  },
+  {
+    "Hash": 692448657,
+    "FactName": "sq032_q104_ready",
+    "Value": 0
+  },
+  {
+    "Hash": 700212049,
+    "FactName": "sq004_mitch_keepalive_intro",
+    "Value": 0
+  },
+  {
+    "Hash": 700473817,
+    "FactName": "holo_v_calls_panam_start_activate",
+    "Value": 0
+  },
+  {
+    "Hash": 701987658,
+    "FactName": "kab_02_ganger_scanned",
+    "Value": 1
+  },
+  {
+    "Hash": 706566901,
+    "FactName": "hobotown_community",
+    "Value": 1
+  },
+  {
+    "Hash": 708221173,
+    "FactName": "ma_wat_nid_03_signpost_ended",
+    "Value": 1
+  },
+  {
+    "Hash": 718683057,
+    "FactName": "ma_nid_02_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 720175276,
+    "FactName": "holo_mr_hands_calls_v_start",
+    "Value": 0
+  },
+  {
+    "Hash": 723789214,
+    "FactName": "nid_01_hal_position",
+    "Value": 1
+  },
+  {
+    "Hash": 737517851,
+    "FactName": "la_street_violence_01_pause",
+    "Value": 0
+  },
+  {
+    "Hash": 737571645,
+    "FactName": "sq004_drone_flight",
+    "Value": 1
+  },
+  {
+    "Hash": 742297455,
+    "FactName": "ma_std_rcr_11_signpost_stop",
+    "Value": 1
+  },
+  {
+    "Hash": 760995320,
+    "FactName": "q103_kill_afterlife",
+    "Value": 1
+  },
+  {
+    "Hash": 762318692,
+    "FactName": "mq001_mitch_busy",
+    "Value": 0
+  },
+  {
+    "Hash": 763357179,
+    "FactName": "ma_pac_cvi_13_start",
+    "Value": 1
+  },
+  {
+    "Hash": 769258361,
+    "FactName": "boss_blinded",
+    "Value": 0
+  },
+  {
+    "Hash": 774142757,
+    "FactName": "sq027_prep_carol_override",
+    "Value": 1
+  },
+  {
+    "Hash": 778688562,
+    "FactName": "q104_turret_broken",
+    "Value": 1
+  },
+  {
+    "Hash": 778896135,
+    "FactName": "mq012_done",
+    "Value": 1
+  },
+  {
+    "Hash": 780235072,
+    "FactName": "std_arr_foodshop_03_visited",
+    "Value": 2
+  },
+  {
+    "Hash": 792090411,
+    "FactName": "de_wbr_hil_05_active",
+    "Value": 0
+  },
+  {
+    "Hash": 798421923,
+    "FactName": "holo_dakota_calls_v_end_activate",
+    "Value": 0
+  },
+  {
+    "Hash": 800420859,
+    "FactName": "q103_rogue_1_day_waited",
+    "Value": 0
+  },
+  {
+    "Hash": 803225135,
+    "FactName": "cs_near_garbage_dump_on",
+    "Value": 1
+  },
+  {
+    "Hash": 815318183,
+    "FactName": "nid_03_start",
+    "Value": 1
+  },
+  {
+    "Hash": 823224285,
+    "FactName": "sts_wat_kab_102_perfect",
+    "Value": 1
+  },
+  {
+    "Hash": 827340593,
+    "FactName": "lch_05_combat_started",
+    "Value": 1
+  },
+  {
+    "Hash": 831239739,
+    "FactName": "q104_haru_taken_by_takemura",
+    "Value": 1
+  },
+  {
+    "Hash": 832176096,
+    "FactName": "sts_std_arr_tier_3",
+    "Value": 1
+  },
+  {
+    "Hash": 841107586,
+    "FactName": "holo_v_calls_panam_end",
+    "Value": 0
+  },
+  {
+    "Hash": 848953715,
+    "FactName": "sts_std_arr_tier_2",
+    "Value": 1
+  },
+  {
+    "Hash": 854534556,
+    "FactName": "cs_pac_wwd_intervention_disabled",
+    "Value": 1
+  },
+  {
+    "Hash": 858057392,
+    "FactName": "ma_rcr_13_stash_cords",
+    "Value": 1
+  },
+  {
+    "Hash": 865731334,
+    "FactName": "sts_std_arr_tier_1",
+    "Value": 1
+  },
+  {
+    "Hash": 867906436,
+    "FactName": "cs_bls_ina_se5_investigation_disabled",
+    "Value": 0
+  },
+  {
+    "Hash": 874533984,
+    "FactName": "cs_bls_ina_se5_broken_car_disabled",
+    "Value": 0
+  },
+  {
+    "Hash": 885429239,
+    "FactName": "kab_06_start",
+    "Value": 1
+  },
+  {
+    "Hash": 889243397,
+    "FactName": "nid_03_every_enemy_outside2nd",
+    "Value": 2
+  },
+  {
+    "Hash": 892659639,
+    "FactName": "std_arr_clothingshop_01_service",
+    "Value": 1
+  },
+  {
+    "Hash": 892801015,
+    "FactName": "ina_03_community_end",
+    "Value": 1
+  },
+  {
+    "Hash": 893435896,
+    "FactName": "holo_v_calls_pepe_start_count",
+    "Value": 1
+  },
+  {
+    "Hash": 893734713,
+    "FactName": "de_hey_rey_05_active",
+    "Value": 0
+  },
+  {
+    "Hash": 895638708,
+    "FactName": "cs_wat_kab_investigation_003_triggered",
+    "Value": 1
+  },
+  {
+    "Hash": 897450800,
+    "FactName": "cs_pac_wwd_road_003_triggered",
+    "Value": 1
+  },
+  {
+    "Hash": 897894796,
+    "FactName": "tutorial_scanner_bounty_displayed",
+    "Value": 1
+  },
+  {
+    "Hash": 903030210,
+    "FactName": "bob_default_on",
+    "Value": 1
+  },
+  {
+    "Hash": 905867467,
+    "FactName": "ma_ina_se1_01_start",
+    "Value": 1
+  },
+  {
+    "Hash": 906173583,
+    "FactName": "lch_05_info_stolen",
+    "Value": 0
+  },
+  {
+    "Hash": 911107932,
+    "FactName": "kab_04_data_extracted",
+    "Value": 1
+  },
+  {
+    "Hash": 912158834,
+    "FactName": "kab_07_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 933483529,
+    "FactName": "ma_token",
+    "Value": 0
+  },
+  {
+    "Hash": 938485947,
+    "FactName": "cs_pac_cvi_investigation_disabled",
+    "Value": 0
+  },
+  {
+    "Hash": 945028889,
+    "FactName": "ma_bls_ina_se1_43_start",
+    "Value": 1
+  },
+  {
+    "Hash": 947890037,
+    "FactName": "wbr_jpn_netrun_02_default_on",
+    "Value": 1
+  },
+  {
+    "Hash": 948863716,
+    "FactName": "ce_wat_lch_03_completed",
+    "Value": 1
+  },
+  {
+    "Hash": 953375703,
+    "FactName": "ma_nid_04_start",
+    "Value": 1
+  },
+  {
+    "Hash": 954965162,
+    "FactName": "q103_slept_roadhouse",
+    "Value": 1
+  },
+  {
+    "Hash": 957797288,
+    "FactName": "de_wbr_hil_06_active",
+    "Value": 0
+  },
+  {
+    "Hash": 965423040,
+    "FactName": "kab_05_bribe_accepted",
+    "Value": 1
+  },
+  {
+    "Hash": 978203703,
+    "FactName": "sq004_farm_panam_sends_V_outside",
+    "Value": 0
+  },
+  {
+    "Hash": 979882827,
+    "FactName": "de_wbr_hil_disabled",
+    "Value": 1
+  },
+  {
+    "Hash": 982120712,
+    "FactName": "kab_07_start",
+    "Value": 1
+  },
+  {
+    "Hash": 991516163,
+    "FactName": "sts_wat_nid_06_data_drive",
+    "Value": 1
+  },
+  {
+    "Hash": 994220095,
+    "FactName": "ma_kab_01_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 996757344,
+    "FactName": "nid_01_player_escape",
+    "Value": 1
+  },
+  {
+    "Hash": 1004611759,
+    "FactName": "holo_mr_stud_calls_v_end_activate",
+    "Value": 0
+  },
+  {
+    "Hash": 1010902719,
+    "FactName": "#ma_wat_lch_07_v_noticed",
+    "Value": 1
+  },
+  {
+    "Hash": 1012171164,
+    "FactName": "cs_wat_kab_intervention_002_triggered",
+    "Value": 1
+  },
+  {
+    "Hash": 1016006463,
+    "FactName": "kana_yakin_default_on",
+    "Value": 1
+  },
+  {
+    "Hash": 1018679834,
+    "FactName": "sts_wat_kab_nid_05_combat",
+    "Value": 1
+  },
+  {
+    "Hash": 1026731600,
+    "FactName": "jpn_03_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 1028637152,
+    "FactName": "ma_wat_lch_04_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 1029679705,
+    "FactName": "la_robbery_02_kick_done",
+    "Value": 0
+  },
+  {
+    "Hash": 1043833265,
+    "FactName": "ma_kab_07_start",
+    "Value": 1
+  },
+  {
+    "Hash": 1043982575,
+    "FactName": "sts_wat_kab_03_ready_1",
+    "Value": 1
+  },
+  {
+    "Hash": 1046326460,
+    "FactName": "sq004_security_camera_used",
+    "Value": 1
+  },
+  {
+    "Hash": 1051480544,
+    "FactName": "mq040_active",
+    "Value": 0
+  },
+  {
+    "Hash": 1053460981,
+    "FactName": "q104_mitch_rescued",
+    "Value": 1
+  },
+  {
+    "Hash": 1061168867,
+    "FactName": "arr_05_community_start",
+    "Value": 1
+  },
+  {
+    "Hash": 1061923185,
+    "FactName": "mq017_var_conversation_started",
+    "Value": 1
+  },
+  {
+    "Hash": 1063333232,
+    "FactName": "holo_padre_calls_v_interrupted",
+    "Value": 0
+  },
+  {
+    "Hash": 1063419321,
+    "FactName": "q104_tire_scanned",
+    "Value": 1
+  },
+  {
+    "Hash": 1065019591,
+    "FactName": "#ina_03_proper",
+    "Value": 1
+  },
+  {
+    "Hash": 1066789930,
+    "FactName": "alex_is_despawned",
+    "Value": 1
+  },
+  {
+    "Hash": 1068888606,
+    "FactName": "cs_lch_inv_004_triggered",
+    "Value": 1
+  },
+  {
+    "Hash": 1075412186,
+    "FactName": "mq032_nonlethal",
+    "Value": 1
+  },
+  {
+    "Hash": 1077316390,
+    "FactName": "sq027_search_spot_container_003_conclusion",
+    "Value": 1
+  },
+  {
+    "Hash": 1077513872,
+    "FactName": "rey_09_cooled",
+    "Value": 1
+  },
+  {
+    "Hash": 1090025052,
+    "FactName": "q104_start_tracking",
+    "Value": 1
+  },
+  {
+    "Hash": 1094552359,
+    "FactName": "ma_nid_13_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 1098291064,
+    "FactName": "interrupt_phone_done",
+    "Value": 1
+  },
+  {
+    "Hash": 1104770944,
+    "FactName": "la_robbery_02_pause",
+    "Value": 0
+  },
+  {
+    "Hash": 1105973589,
+    "FactName": "ma_wat_lch_12_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 1118036157,
+    "FactName": "ma_wat_kab_101_start",
+    "Value": 1
+  },
+  {
+    "Hash": 1128645281,
+    "FactName": "kab_02_enemies_killed",
+    "Value": 1
+  },
+  {
+    "Hash": 1135185592,
+    "FactName": "sq027_locomotive_ready",
+    "Value": 1
+  },
+  {
+    "Hash": 1138699514,
+    "FactName": "q104_owner_met",
+    "Value": 1
+  },
+  {
+    "Hash": 1146180363,
+    "FactName": "holo_v_calls_reggie_start_activate",
+    "Value": 0
+  },
+  {
+    "Hash": 1149495571,
+    "FactName": "wat_achievement",
+    "Value": 41
+  },
+  {
+    "Hash": 1151884798,
+    "FactName": "ma_std_rcr_108_start",
+    "Value": 1
+  },
+  {
+    "Hash": 1155161837,
+    "FactName": "tutorial_vehicle_crack_lock",
+    "Value": 2
+  },
+  {
+    "Hash": 1156140030,
+    "FactName": "jpn_01_garage_open",
+    "Value": 1
+  },
+  {
+    "Hash": 1157560217,
+    "FactName": "ma_kab_03_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 1161373220,
+    "FactName": "scene_lizzies_patron_done",
+    "Value": 1
+  },
+  {
+    "Hash": 1168443491,
+    "FactName": "holo_elizabeth_calls_v_end_count",
+    "Value": 1
+  },
+  {
+    "Hash": 1176013019,
+    "FactName": "sq027_player_sitting",
+    "Value": 1
+  },
+  {
+    "Hash": 1184498327,
+    "FactName": "nid_01_lizzie_met",
+    "Value": 1
+  },
+  {
+    "Hash": 1190266930,
+    "FactName": "nid_12_max_in_car",
+    "Value": 1
+  },
+  {
+    "Hash": 1208025987,
+    "FactName": "holo_v_calls_takemura_end_activate",
+    "Value": 0
+  },
+  {
+    "Hash": 1211019519,
+    "FactName": "sq027_var_nomad_camp_done",
+    "Value": 1
+  },
+  {
+    "Hash": 1214595064,
+    "FactName": "hey_rey_junkshop_01_met",
+    "Value": 1
+  },
+  {
+    "Hash": 1216577744,
+    "FactName": "q104_crash_uncover_drones",
+    "Value": 1
+  },
+  {
+    "Hash": 1218150811,
+    "FactName": "q005_01_evelyn_fluff",
+    "Value": 1
+  },
+  {
+    "Hash": 1227117810,
+    "FactName": "sq032_q104_done",
+    "Value": 1
+  },
+  {
+    "Hash": 1231838041,
+    "FactName": "nid_02_reveal",
+    "Value": 1
+  },
+  {
+    "Hash": 1232074438,
+    "FactName": "mq012_in_truck_blockade",
+    "Value": 1
+  },
+  {
+    "Hash": 1240916424,
+    "FactName": "q104_crash_site_surveillance_finished",
+    "Value": 0
+  },
+  {
+    "Hash": 1250569948,
+    "FactName": "q003_03_royce_fluff",
+    "Value": 0
+  },
+  {
+    "Hash": 1255687193,
+    "FactName": "mq032_stop_idle_gestures",
+    "Value": 1
+  },
+  {
+    "Hash": 1256340601,
+    "FactName": "mq040_gangers_scene_done",
+    "Value": 1
+  },
+  {
+    "Hash": 1259785428,
+    "FactName": "q104_done",
+    "Value": 1
+  },
+  {
+    "Hash": 1260554542,
+    "FactName": "ma_wwd_02_start",
+    "Value": 1
+  },
+  {
+    "Hash": 1262046170,
+    "FactName": "kab_02_scanned_shock",
+    "Value": 1
+  },
+  {
+    "Hash": 1262342562,
+    "FactName": "ma_pac_wwd_tier_1",
+    "Value": 1
+  },
+  {
+    "Hash": 1266880251,
+    "FactName": "q104_08_johnny_chair",
+    "Value": 1
+  },
+  {
+    "Hash": 1267068380,
+    "FactName": "ma_std_arr_102_start",
+    "Value": 1
+  },
+  {
+    "Hash": 1269130053,
+    "FactName": "q104_kang_drones_comment",
+    "Value": 0
+  },
+  {
+    "Hash": 1270505641,
+    "FactName": "cs_wat_nid_road_riot_counter",
+    "Value": 2
+  },
+  {
+    "Hash": 1282509171,
+    "FactName": "wanted_level",
+    "Value": 0
+  },
+  {
+    "Hash": 1282933306,
+    "FactName": "holo_wilson_calls_v_start_activate",
+    "Value": 0
+  },
+  {
+    "Hash": 1286082159,
+    "FactName": "mq012_laughing_chat",
+    "Value": 1
+  },
+  {
+    "Hash": 1306418838,
+    "FactName": "kab_05_shard",
+    "Value": 1
+  },
+  {
+    "Hash": 1313525750,
+    "FactName": "holo_dino_calls_v_start_count",
+    "Value": 1
+  },
+  {
+    "Hash": 1316965930,
+    "FactName": "ma_nid_23_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 1318287332,
+    "FactName": "jpn_01_alex_getting_out",
+    "Value": 1
+  },
+  {
+    "Hash": 1318429685,
+    "FactName": "de_wbr_hil_03_active",
+    "Value": 0
+  },
+  {
+    "Hash": 1322126943,
+    "FactName": "kab_03_gun_shot",
+    "Value": 2
+  },
+  {
+    "Hash": 1325839450,
+    "FactName": "q103_gt_drive_dialogue4",
+    "Value": 1
+  },
+  {
+    "Hash": 1331470376,
+    "FactName": "jpn_05_start",
+    "Value": 1
+  },
+  {
+    "Hash": 1336190794,
+    "FactName": "mq012_in_kids_blockade",
+    "Value": 1
+  },
+  {
+    "Hash": 1336301680,
+    "FactName": "jpn_12_johnny_clue",
+    "Value": 1
+  },
+  {
+    "Hash": 1336583813,
+    "FactName": "q104_panam_sees_station",
+    "Value": 1
+  },
+  {
+    "Hash": 1345286927,
+    "FactName": "holo_wilson_calls_v_end",
+    "Value": 0
+  },
+  {
+    "Hash": 1346587922,
+    "FactName": "rey_09_coolant",
+    "Value": 1
+  },
+  {
+    "Hash": 1348862451,
+    "FactName": "q104_06_av_end_talk_arms_crossed",
+    "Value": 1
+  },
+  {
+    "Hash": 1349622790,
+    "FactName": "sq032_sickness_glitch",
+    "Value": 0
+  },
+  {
+    "Hash": 1353172101,
+    "FactName": "sq027_panam_start_choicesection_glance",
+    "Value": 0
+  },
+  {
+    "Hash": 1358426832,
+    "FactName": "ma_std_rcr_106_start",
+    "Value": 1
+  },
+  {
+    "Hash": 1360991679,
+    "FactName": "mq033_vic_dialogue_off",
+    "Value": 0
+  },
+  {
+    "Hash": 1362628538,
+    "FactName": "mq030_zane_met",
+    "Value": 3
+  },
+  {
+    "Hash": 1362956328,
+    "FactName": "cs_std_arr_stat_036_triggered",
+    "Value": 1
+  },
+  {
+    "Hash": 1365407957,
+    "FactName": "dyno_default_on",
+    "Value": 1
+  },
+  {
+    "Hash": 1367844386,
+    "FactName": "q104_nomads_comment",
+    "Value": 0
+  },
+  {
+    "Hash": 1368381319,
+    "FactName": "nid_12_max_normal",
+    "Value": 1
+  },
+  {
+    "Hash": 1376012657,
+    "FactName": "lch_01_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 1376554043,
+    "FactName": "q103_helped_panam",
+    "Value": 1
+  },
+  {
+    "Hash": 1377120993,
+    "FactName": "holo_v_calls_reggie_start_count",
+    "Value": 1
+  },
+  {
+    "Hash": 1384821821,
+    "FactName": "q104_crash_uncover_corpos",
+    "Value": 1
+  },
+  {
+    "Hash": 1386238396,
+    "FactName": "holo_v_calls_reggie_end_count",
+    "Value": 1
+  },
+  {
+    "Hash": 1398627618,
+    "FactName": "nid_01_psycho_dead",
+    "Value": 1
+  },
+  {
+    "Hash": 1405300307,
+    "FactName": "holo_padre_calls_v_end",
+    "Value": 0
+  },
+  {
+    "Hash": 1409544588,
+    "FactName": "lch_06_entrance_chat_ends",
+    "Value": 1
+  },
+  {
+    "Hash": 1410767405,
+    "FactName": "nid_05_radio_start",
+    "Value": 1
+  },
+  {
+    "Hash": 1410849448,
+    "FactName": "wbr_hil_clothingshop_01_met",
+    "Value": 1
+  },
+  {
+    "Hash": 1424225663,
+    "FactName": "ma_rcr_08_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 1425004818,
+    "FactName": "cs_bls_ina_se1_int_005_triggered",
+    "Value": 1
+  },
+  {
+    "Hash": 1426416926,
+    "FactName": "cs_wbr_hil_intervention_disabled",
+    "Value": 0
+  },
+  {
+    "Hash": 1434503241,
+    "FactName": "sts_wat_kab_107_kill",
+    "Value": 1
+  },
+  {
+    "Hash": 1435642049,
+    "FactName": "teddy_default_on",
+    "Value": 1
+  },
+  {
+    "Hash": 1435906527,
+    "FactName": "sq023_active",
+    "Value": 1
+  },
+  {
+    "Hash": 1438588427,
+    "FactName": "sts_wat_nid_02_mappin_part_1",
+    "Value": 1
+  },
+  {
+    "Hash": 1444182137,
+    "FactName": "jpn_05_put_in",
+    "Value": 1
+  },
+  {
+    "Hash": 1444443708,
+    "FactName": "mq001_funeral_walktalk",
+    "Value": 1
+  },
+  {
+    "Hash": 1447483517,
+    "FactName": "ma_arr_11_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 1450203435,
+    "FactName": "kab_ripperdoc_02_service_used",
+    "Value": 1
+  },
+  {
+    "Hash": 1455366046,
+    "FactName": "sts_wat_nid_02_mappin_part_2",
+    "Value": 1
+  },
+  {
+    "Hash": 1455366189,
+    "FactName": "sq004_panam_like",
+    "Value": 2
+  },
+  {
+    "Hash": 1456174238,
+    "FactName": "nid_06_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 1458150875,
+    "FactName": "q104_corps_ask",
+    "Value": 1
+  },
+  {
+    "Hash": 1458194111,
+    "FactName": "sq032_episode_3_done",
+    "Value": 1
+  },
+  {
+    "Hash": 1462550612,
+    "FactName": "std_rcr_cloth_met",
+    "Value": 2
+  },
+  {
+    "Hash": 1472923097,
+    "FactName": "wbr_jpn_prostitue_f_met",
+    "Value": 1
+  },
+  {
+    "Hash": 1476899373,
+    "FactName": "nid_05_start",
+    "Value": 1
+  },
+  {
+    "Hash": 1481637037,
+    "FactName": "ma_wat_lch_05_start",
+    "Value": 2
+  },
+  {
+    "Hash": 1481645367,
+    "FactName": "sq004_secret_entrance_known",
+    "Value": 1
+  },
+  {
+    "Hash": 1484502502,
+    "FactName": "q103_rogue_paid_up",
+    "Value": 1
+  },
+  {
+    "Hash": 1485947033,
+    "FactName": "ma_jpn_01_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 1491767939,
+    "FactName": "ma_kab_01_start",
+    "Value": 1
+  },
+  {
+    "Hash": 1499269511,
+    "FactName": "q104_crash_site_oil_mark_scanned_conclusion",
+    "Value": 1
+  },
+  {
+    "Hash": 1517748247,
+    "FactName": "ma_ina_se1_07_audio",
+    "Value": 1
+  },
+  {
+    "Hash": 1517812027,
+    "FactName": "de_pac_cvi_disabled",
+    "Value": 0
+  },
+  {
+    "Hash": 1518878367,
+    "FactName": "pac_cvi_clothingshop_01_used",
+    "Value": 1
+  },
+  {
+    "Hash": 1525251060,
+    "FactName": "ma_rey_06_start",
+    "Value": 1
+  },
+  {
+    "Hash": 1528590867,
+    "FactName": "cs_wbr_hil_investigation_disabled",
+    "Value": 0
+  },
+  {
+    "Hash": 1537473581,
+    "FactName": "holo_muamar_calls_v_start_count",
+    "Value": 2
+  },
+  {
+    "Hash": 1538430479,
+    "FactName": "mq040_arr_top_left",
+    "Value": 1
+  },
+  {
+    "Hash": 1557599611,
+    "FactName": "q104_owner_told_about_anders",
+    "Value": 1
+  },
+  {
+    "Hash": 1560958131,
+    "FactName": "q103_done",
+    "Value": 1
+  },
+  {
+    "Hash": 1565316841,
+    "FactName": "la_robbery_02_ganger_on_knees",
+    "Value": 0
+  },
+  {
+    "Hash": 1569716775,
+    "FactName": "holo_v_calls_panam_start",
+    "Value": 0
+  },
+  {
+    "Hash": 1585949609,
+    "FactName": "mq030_active",
+    "Value": 1
+  },
+  {
+    "Hash": 1587511005,
+    "FactName": "mq001_beer",
+    "Value": 1
+  },
+  {
+    "Hash": 1588655213,
+    "FactName": "hey_achievement",
+    "Value": 2
+  },
+  {
+    "Hash": 1593557061,
+    "FactName": "kab_02_after_scan_objective_hold",
+    "Value": 1
+  },
+  {
+    "Hash": 1597735524,
+    "FactName": "jpn_01_know_alex",
+    "Value": 1
+  },
+  {
+    "Hash": 1600906886,
+    "FactName": "jpn_02_all_killed",
+    "Value": 1
+  },
+  {
+    "Hash": 1601125983,
+    "FactName": "sq027_cassidy_table_keepalive",
+    "Value": 0
+  },
+  {
+    "Hash": 1601791460,
+    "FactName": "ma_std_rcr_102_start",
+    "Value": 1
+  },
+  {
+    "Hash": 1603252613,
+    "FactName": "sq004_panam_morningafter_keepalive",
+    "Value": 1
+  },
+  {
+    "Hash": 1607349152,
+    "FactName": "mq001_started",
+    "Value": 1
+  },
+  {
+    "Hash": 1615909307,
+    "FactName": "ina_05_cc_start",
+    "Value": 0
+  },
+  {
+    "Hash": 1617312409,
+    "FactName": "hey_spr_clothingshop_01_met",
+    "Value": 1
+  },
+  {
+    "Hash": 1628676624,
+    "FactName": "ma_cct_cpz_15_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 1632218235,
+    "FactName": "ma_wat_lch_07_start",
+    "Value": 1
+  },
+  {
+    "Hash": 1634111084,
+    "FactName": "nid_02_radio_start",
+    "Value": 1
+  },
+  {
+    "Hash": 1636884029,
+    "FactName": "player_outside_car",
+    "Value": 1
+  },
+  {
+    "Hash": 1641858857,
+    "FactName": "jpn_12a_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 1644398143,
+    "FactName": "dakota_default_on",
+    "Value": 1
+  },
+  {
+    "Hash": 1648038753,
+    "FactName": "ma_jpn_09_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 1648090866,
+    "FactName": "holo_v_calls_panam_end_activate",
+    "Value": 0
+  },
+  {
+    "Hash": 1655072719,
+    "FactName": "mq032_monk_get_up",
+    "Value": 1
+  },
+  {
+    "Hash": 1661001519,
+    "FactName": "sq004_main_01_partol_start",
+    "Value": 1
+  },
+  {
+    "Hash": 1671794676,
+    "FactName": "holo_mr_stud_calls_v_start_activate",
+    "Value": 0
+  },
+  {
+    "Hash": 1676100903,
+    "FactName": "wat_lch_melee_01_met",
+    "Value": 1
+  },
+  {
+    "Hash": 1677834200,
+    "FactName": "holo_v_calls_judy_interrupted",
+    "Value": 0
+  },
+  {
+    "Hash": 1684271819,
+    "FactName": "ma_rcr_13_start",
+    "Value": 1
+  },
+  {
+    "Hash": 1686033257,
+    "FactName": "q004_netwatch_evelyn",
+    "Value": 1
+  },
+  {
+    "Hash": 1691948820,
+    "FactName": "ma_wbr_hil_01_start",
+    "Value": 1
+  },
+  {
+    "Hash": 1695540625,
+    "FactName": "q103_active_claire_scene",
+    "Value": 0
+  },
+  {
+    "Hash": 1699816442,
+    "FactName": "cs_bls_ina_se5_road_disabled",
+    "Value": 0
+  },
+  {
+    "Hash": 1700911921,
+    "FactName": "q103_tunnel_combat_start",
+    "Value": 1
+  },
+  {
+    "Hash": 1704069533,
+    "FactName": "kab_02_start_scan",
+    "Value": 1
+  },
+  {
+    "Hash": 1704357453,
+    "FactName": "nid_01_hal_met",
+    "Value": 1
+  },
+  {
+    "Hash": 1715117686,
+    "FactName": "holo_dakota_calls_v_interrupted",
+    "Value": 0
+  },
+  {
+    "Hash": 1730044493,
+    "FactName": "q104_inside_gas_station",
+    "Value": 1
+  },
+  {
+    "Hash": 1732885770,
+    "FactName": "sq027_panam_windowtrain__carol",
+    "Value": 0
+  },
+  {
+    "Hash": 1739368679,
+    "FactName": "wat_lch_cloth_01_met",
+    "Value": 1
+  },
+  {
+    "Hash": 1746864520,
+    "FactName": "ma_pac_cvi_05_start",
+    "Value": 1
+  },
+  {
+    "Hash": 1748933694,
+    "FactName": "kab_101_activated",
+    "Value": 1
+  },
+  {
+    "Hash": 1749827358,
+    "FactName": "sq027_ambush_carol_keepalive",
+    "Value": 0
+  },
+  {
+    "Hash": 1754165212,
+    "FactName": "lch_06_radio_start",
+    "Value": 1
+  },
+  {
+    "Hash": 1763555103,
+    "FactName": "ma_wat_nid_03_signpost_combat",
+    "Value": 1
+  },
+  {
+    "Hash": 1767079572,
+    "FactName": "pac_cvi_techstore_01_used",
+    "Value": 1
+  },
+  {
+    "Hash": 1772555639,
+    "FactName": "nid_03_every_enemy_outside",
+    "Value": 2
+  },
+  {
+    "Hash": 1772990113,
+    "FactName": "sq004_mitch_available",
+    "Value": 1
+  },
+  {
+    "Hash": 1779472337,
+    "FactName": "sq027_03_cassidy_in_place",
+    "Value": 1
+  },
+  {
+    "Hash": 1779816306,
+    "FactName": "ma_wat_lch_11_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 1784310726,
+    "FactName": "ma_rcr_18_start",
+    "Value": 1
+  },
+  {
+    "Hash": 1788314690,
+    "FactName": "ma_wat_lch_08_start",
+    "Value": 1
+  },
+  {
+    "Hash": 1791065672,
+    "FactName": "nid_02_radio_stop",
+    "Value": 1
+  },
+  {
+    "Hash": 1807137910,
+    "FactName": "q001_holoscene_crime_ended",
+    "Value": 1
+  },
+  {
+    "Hash": 1811480830,
+    "FactName": "q104_05_panam_killed_pilot",
+    "Value": 1
+  },
+  {
+    "Hash": 1816411453,
+    "FactName": "ma_rcr_11_start",
+    "Value": 1
+  },
+  {
+    "Hash": 1829076417,
+    "FactName": "nid_12_radio_start",
+    "Value": 1
+  },
+  {
+    "Hash": 1829632784,
+    "FactName": "sq004_storm_over",
+    "Value": 1
+  },
+  {
+    "Hash": 1830998327,
+    "FactName": "nid_01_weak",
+    "Value": 1
+  },
+  {
+    "Hash": 1831002438,
+    "FactName": "ma_wbr_hil_102_start",
+    "Value": 1
+  },
+  {
+    "Hash": 1837871441,
+    "FactName": "ma_rcr_11_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 1839365998,
+    "FactName": "mq032_help",
+    "Value": 1
+  },
+  {
+    "Hash": 1839634649,
+    "FactName": "q103_mitch_met",
+    "Value": 1
+  },
+  {
+    "Hash": 1843016048,
+    "FactName": "q103_panam_called",
+    "Value": 1
+  },
+  {
+    "Hash": 1846964120,
+    "FactName": "bls_ina_se1_gunsmith_02_talked",
+    "Value": 1
+  },
+  {
+    "Hash": 1847305291,
+    "FactName": "ma_wat_lch_14_start",
+    "Value": 1
+  },
+  {
+    "Hash": 1848935404,
+    "FactName": "holo_mr_stud_calls_v_start",
+    "Value": 0
+  },
+  {
+    "Hash": 1849522135,
+    "FactName": "mq012_can_stop_at_ripperdoc",
+    "Value": 1
+  },
+  {
+    "Hash": 1858846161,
+    "FactName": "sq027_ambush_teddy_keepalive",
+    "Value": 0
+  },
+  {
+    "Hash": 1878405383,
+    "FactName": "swimming_tutorial_seen",
+    "Value": 1
+  },
+  {
+    "Hash": 1883108642,
+    "FactName": "std_achievement",
+    "Value": 7
+  },
+  {
+    "Hash": 1893472985,
+    "FactName": "ce_wat_kab_02_active",
+    "Value": 0
+  },
+  {
+    "Hash": 1903176424,
+    "FactName": "sq027_cassidy_playing",
+    "Value": 1
+  },
+  {
+    "Hash": 1914987686,
+    "FactName": "nid_04_duo_alerted_recording_not_looted",
+    "Value": 0
+  },
+  {
+    "Hash": 1927174499,
+    "FactName": "ma_kab_12_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 1932549340,
+    "FactName": "kab_03_start",
+    "Value": 1
+  },
+  {
+    "Hash": 1933008872,
+    "FactName": "sq004_sided_with_panam",
+    "Value": 1
+  },
+  {
+    "Hash": 1938426969,
+    "FactName": "q103_left_afterlife",
+    "Value": 1
+  },
+  {
+    "Hash": 1941298741,
+    "FactName": "q104_haru_interrogated",
+    "Value": 1
+  },
+  {
+    "Hash": 1942201436,
+    "FactName": "cs_wat_lch_afterlife_counter",
+    "Value": 1
+  },
+  {
+    "Hash": 1946110020,
+    "FactName": "cs_bls_se5_windfarm_engineers_disabled",
+    "Value": 0
+  },
+  {
+    "Hash": 1947653630,
+    "FactName": "ma_kab_08_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 1947674936,
+    "FactName": "cs_std_arr_intervention_disabled",
+    "Value": 0
+  },
+  {
+    "Hash": 1949683475,
+    "FactName": "ma_jpn_07_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 1951694966,
+    "FactName": "tutorial_scanner_bounty_displayed_seen",
+    "Value": 1
+  },
+  {
+    "Hash": 1953147049,
+    "FactName": "std_arr_foodshop_03_service",
+    "Value": 1
+  },
+  {
+    "Hash": 1953985374,
+    "FactName": "holo_cynthia_calls_v_start_activate",
+    "Value": 0
+  },
+  {
+    "Hash": 1958680750,
+    "FactName": "ma_pac_cvi_10_start",
+    "Value": 1
+  },
+  {
+    "Hash": 1960217852,
+    "FactName": "jpn_01_start",
+    "Value": 1
+  },
+  {
+    "Hash": 1979583132,
+    "FactName": "jpn_05_moment_music",
+    "Value": 1
+  },
+  {
+    "Hash": 1980959701,
+    "FactName": "holo_mr_stud_calls_v_end",
+    "Value": 0
+  },
+  {
+    "Hash": 1982509082,
+    "FactName": "de_pac_cvi_04_active",
+    "Value": 1
+  },
+  {
+    "Hash": 1990520098,
+    "FactName": "mr_hands_met",
+    "Value": 1
+  },
+  {
+    "Hash": 1993193741,
+    "FactName": "jpn_02_npcs_move",
+    "Value": 1
+  },
+  {
+    "Hash": 1998968522,
+    "FactName": "holo_panam_calls_v_end_count",
+    "Value": 3
+  },
+  {
+    "Hash": 1999307393,
+    "FactName": "wat_lch_gun_01_met",
+    "Value": 1
+  },
+  {
+    "Hash": 2000070728,
+    "FactName": "execution_03_thx",
+    "Value": 1
+  },
+  {
+    "Hash": 2005498152,
+    "FactName": "q104_crash_site_back_at_car",
+    "Value": 1
+  },
+  {
+    "Hash": 2008269432,
+    "FactName": "kab_06_blake_croyle_dead",
+    "Value": 1
+  },
+  {
+    "Hash": 2015859269,
+    "FactName": "cs_wat_kab_inv_004_active",
+    "Value": 0
+  },
+  {
+    "Hash": 2023603583,
+    "FactName": "ma_wat_lch_06_psycho_combat_started",
+    "Value": 1
+  },
+  {
+    "Hash": 2024054358,
+    "FactName": "q104_08_johnny_stand",
+    "Value": 1
+  },
+  {
+    "Hash": 2027239274,
+    "FactName": "q103_kill_quest",
+    "Value": 1
+  },
+  {
+    "Hash": 2028093471,
+    "FactName": "web_westwindestate",
+    "Value": 0
+  },
+  {
+    "Hash": 2034973080,
+    "FactName": "sq004_main_02_patrol_start",
+    "Value": 1
+  },
+  {
+    "Hash": 2039253469,
+    "FactName": "nid_04_alerted",
+    "Value": 1
+  },
+  {
+    "Hash": 2045663991,
+    "FactName": "cs_pac_cvi_road_disabled",
+    "Value": 0
+  },
+  {
+    "Hash": 2052166946,
+    "FactName": "holo_mr_hands_calls_v_interrupted",
+    "Value": 0
+  },
+  {
+    "Hash": 2053898411,
+    "FactName": "cct_dtn_cloth_01_use",
+    "Value": 1
+  },
+  {
+    "Hash": 2055247683,
+    "FactName": "sq018_done",
+    "Value": 1
+  },
+  {
+    "Hash": 2058393003,
+    "FactName": "sq032_03_mikoshi_known",
+    "Value": 1
+  },
+  {
+    "Hash": 2069149450,
+    "FactName": "cs_pac_wwd_intervention_004_triggered",
+    "Value": 1
+  },
+  {
+    "Hash": 2074779848,
+    "FactName": "mq017_kirk_briefing_started",
+    "Value": 1
+  },
+  {
+    "Hash": 2083234983,
+    "FactName": "thanks_tbug",
+    "Value": 1
+  },
+  {
+    "Hash": 2088565023,
+    "FactName": "sts_wat_kab_02_after_inject",
+    "Value": 1
+  },
+  {
+    "Hash": 2096907174,
+    "FactName": "sts_wat_kab_04_distracted_01",
+    "Value": 0
+  },
+  {
+    "Hash": 2101538201,
+    "FactName": "wat_nid_gun_01_met",
+    "Value": 1
+  },
+  {
+    "Hash": 2108441848,
+    "FactName": "de_pac_cvi_06_active",
+    "Value": 1
+  },
+  {
+    "Hash": 2111631645,
+    "FactName": "ma_kab_07_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 2116552490,
+    "FactName": "police_system_tutorial_seen",
+    "Value": 1
+  },
+  {
+    "Hash": 2119127370,
+    "FactName": "holo_dino_calls_v_start",
+    "Value": 0
+  },
+  {
+    "Hash": 2123042359,
+    "FactName": "strong_attack",
+    "Value": 0
+  },
+  {
+    "Hash": 2126856341,
+    "FactName": "holo_mr_hands_calls_v_end",
+    "Value": 0
+  },
+  {
+    "Hash": 2130152133,
+    "FactName": "q103_lookat_randomizer",
+    "Value": 1
+  },
+  {
+    "Hash": 2136694996,
+    "FactName": "q103_rogue_no_money",
+    "Value": 0
+  },
+  {
+    "Hash": 2139554411,
+    "FactName": "holo_elizabeth_calls_v_end",
+    "Value": 0
+  },
+  {
+    "Hash": 2141350243,
+    "FactName": "holo_v_calls_judy_end_count",
+    "Value": 1
+  },
+  {
+    "Hash": 2147457527,
+    "FactName": "de_pac_cvi_01_active",
+    "Value": 1
+  },
+  {
+    "Hash": 2166566713,
+    "FactName": "sq004_player_stis",
+    "Value": 1
+  },
+  {
+    "Hash": 2167281062,
+    "FactName": "sq027_convoy_hit_done",
+    "Value": 1
+  },
+  {
+    "Hash": 2181438939,
+    "FactName": "jpn_05_mail",
+    "Value": 1
+  },
+  {
+    "Hash": 2183006597,
+    "FactName": "de_pac_cvi_03_active",
+    "Value": 1
+  },
+  {
+    "Hash": 2184418313,
+    "FactName": "sq004_panam_flirted_farm",
+    "Value": 1
+  },
+  {
+    "Hash": 2185135801,
+    "FactName": "q005_found_safe_first",
+    "Value": 1
+  },
+  {
+    "Hash": 2195765977,
+    "FactName": "q103_03_rogue_waitGestures",
+    "Value": 1
+  },
+  {
+    "Hash": 2198477976,
+    "FactName": "sq025_buy_car",
+    "Value": 1
+  },
+  {
+    "Hash": 2202586978,
+    "FactName": "holo_mr_stud_calls_v_interrupted",
+    "Value": 0
+  },
+  {
+    "Hash": 2209736921,
+    "FactName": "holo_dakota_calls_v_end_count",
+    "Value": 3
+  },
+  {
+    "Hash": 2215292342,
+    "FactName": "kab_102_after",
+    "Value": 1
+  },
+  {
+    "Hash": 2220007469,
+    "FactName": "el_capitan_default_on",
+    "Value": 1
+  },
+  {
+    "Hash": 2224323286,
+    "FactName": "sq027_table_made_first_choice",
+    "Value": 1
+  },
+  {
+    "Hash": 2228908591,
+    "FactName": "kab_107_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 2234582132,
+    "FactName": "jpn_01_alex_is_free",
+    "Value": 1
+  },
+  {
+    "Hash": 2241458381,
+    "FactName": "ma_ina_se1_14_start",
+    "Value": 1
+  },
+  {
+    "Hash": 2253786131,
+    "FactName": "sq004_distance_failsafe_off",
+    "Value": 1
+  },
+  {
+    "Hash": 2262518557,
+    "FactName": "lch_01_radio_start",
+    "Value": 1
+  },
+  {
+    "Hash": 2264933037,
+    "FactName": "ma_bls_ina_se1_32_start",
+    "Value": 1
+  },
+  {
+    "Hash": 2267715683,
+    "FactName": "q101_new_email_read",
+    "Value": 1
+  },
+  {
+    "Hash": 2271401927,
+    "FactName": "kab_02_combat_started",
+    "Value": 1
+  },
+  {
+    "Hash": 2284339894,
+    "FactName": "holo_padre_calls_v_start",
+    "Value": 0
+  },
+  {
+    "Hash": 2285867080,
+    "FactName": "sq027_panam_table_keepalive",
+    "Value": 0
+  },
+  {
+    "Hash": 2288826288,
+    "FactName": "wat_kab_02_ma_06_start",
+    "Value": 1
+  },
+  {
+    "Hash": 2299088082,
+    "FactName": "cs_wat_kab_investigation_001_triggered",
+    "Value": 1
+  },
+  {
+    "Hash": 2299301335,
+    "FactName": "kab_02_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 2302228436,
+    "FactName": "ina_06_cc_start",
+    "Value": 0
+  },
+  {
+    "Hash": 2303954821,
+    "FactName": "nid_01_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 2323581868,
+    "FactName": "ma_scene_thanks",
+    "Value": 1
+  },
+  {
+    "Hash": 2325518202,
+    "FactName": "ma_ina_se1_11_start",
+    "Value": 1
+  },
+  {
+    "Hash": 2326139083,
+    "FactName": "ma_wat_nid_01_through_02",
+    "Value": 1
+  },
+  {
+    "Hash": 2331870082,
+    "FactName": "glossary_aldecaldos",
+    "Value": 1
+  },
+  {
+    "Hash": 2332105469,
+    "FactName": "sts_wat_kab_04_phone_talk_pause",
+    "Value": 1
+  },
+  {
+    "Hash": 2335611170,
+    "FactName": "ma_wat_kab_08_psycho_combat_started",
+    "Value": 1
+  },
+  {
+    "Hash": 2350641353,
+    "FactName": "sq027_03_teddy_in_place",
+    "Value": 1
+  },
+  {
+    "Hash": 2353105628,
+    "FactName": "holo_dino_calls_v_interrupted",
+    "Value": 0
+  },
+  {
+    "Hash": 2358139157,
+    "FactName": "jpn_01_talked_with_alex",
+    "Value": 1
+  },
+  {
+    "Hash": 2360030084,
+    "FactName": "kab_07_no_kill",
+    "Value": 0
+  },
+  {
+    "Hash": 2368655290,
+    "FactName": "holo_padre_calls_v_start_count",
+    "Value": 1
+  },
+  {
+    "Hash": 2369581358,
+    "FactName": "bls_ina_se1_clothingshop_01_talked",
+    "Value": 1
+  },
+  {
+    "Hash": 2379749206,
+    "FactName": "rey_09_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 2389188927,
+    "FactName": "mq017_started",
+    "Value": 1
+  },
+  {
+    "Hash": 2390338159,
+    "FactName": "ma_wat_nid_32_start",
+    "Value": 1
+  },
+  {
+    "Hash": 2390377767,
+    "FactName": "illegal_action_tutorial",
+    "Value": 0
+  },
+  {
+    "Hash": 2391640133,
+    "FactName": "ma_std_arr_109_start",
+    "Value": 1
+  },
+  {
+    "Hash": 2394155920,
+    "FactName": "kab_102_start",
+    "Value": 1
+  },
+  {
+    "Hash": 2397563405,
+    "FactName": "encoded_shard_tutorial",
+    "Value": 1
+  },
+  {
+    "Hash": 2398027798,
+    "FactName": "wat_kab_02_done",
+    "Value": 1
+  },
+  {
+    "Hash": 2401782908,
+    "FactName": "ma_std_rcr_11_memo_read",
+    "Value": 1
+  },
+  {
+    "Hash": 2401993976,
+    "FactName": "sq027_locomotive_panam_comelook",
+    "Value": 1
+  },
+  {
+    "Hash": 2411418682,
+    "FactName": "la_execution_01_pause",
+    "Value": 0
+  },
+  {
+    "Hash": 2415514235,
+    "FactName": "ma_bls_ina_se1_30_start",
+    "Value": 1
+  },
+  {
+    "Hash": 2425000132,
+    "FactName": "de_pac_cvi_02_active",
+    "Value": 1
+  },
+  {
+    "Hash": 2431837545,
+    "FactName": "sq004_saul_rescued",
+    "Value": 1
+  },
+  {
+    "Hash": 2431945668,
+    "FactName": "mq012_stud_in_car",
+    "Value": 1
+  },
+  {
+    "Hash": 2445700023,
+    "FactName": "jpn_01_trunk_open",
+    "Value": 0
+  },
+  {
+    "Hash": 2450474447,
+    "FactName": "sts_wat_kab_04_wait_done",
+    "Value": 1
+  },
+  {
+    "Hash": 2452692104,
+    "FactName": "ma_rcr_16_start",
+    "Value": 1
+  },
+  {
+    "Hash": 2458777746,
+    "FactName": "kab_02_anest_dropped_chester",
+    "Value": 0
+  },
+  {
+    "Hash": 2460421855,
+    "FactName": "holo_wilson_calls_v_end_count",
+    "Value": 1
+  },
+  {
+    "Hash": 2467022740,
+    "FactName": "rey_09_start",
+    "Value": 1
+  },
+  {
+    "Hash": 2473467515,
+    "FactName": "holo_padre_calls_v_end_count",
+    "Value": 1
+  },
+  {
+    "Hash": 2481520674,
+    "FactName": "q104_kill_crash_site",
+    "Value": 1
+  },
+  {
+    "Hash": 2489984311,
+    "FactName": "cs_wat_nid_sts_05_01_seen",
+    "Value": 1
+  },
+  {
+    "Hash": 2492567438,
+    "FactName": "saul_default_on",
+    "Value": 1
+  },
+  {
+    "Hash": 2493082192,
+    "FactName": "wbr_jpn_cloth_01_service",
+    "Value": 1
+  },
+  {
+    "Hash": 2494439577,
+    "FactName": "hey_rey_gun_01_used",
+    "Value": 1
+  },
+  {
+    "Hash": 2496164871,
+    "FactName": "holo_v_calls_pepe_end_activate",
+    "Value": 0
+  },
+  {
+    "Hash": 2496185906,
+    "FactName": "misty_dd_is_call",
+    "Value": 0
+  },
+  {
+    "Hash": 2499377643,
+    "FactName": "#q104_02_detonator_disable",
+    "Value": 1
+  },
+  {
+    "Hash": 2499800689,
+    "FactName": "#kab_04_keyes_bought",
+    "Value": 2
+  },
+  {
+    "Hash": 2506358005,
+    "FactName": "lch_05_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 2511957564,
+    "FactName": "holo_muamar_calls_v_end",
+    "Value": 0
+  },
+  {
+    "Hash": 2530295760,
+    "FactName": "q104_saul_met",
+    "Value": 1
+  },
+  {
+    "Hash": 2544643167,
+    "FactName": "q104_progress_gas_station_reached",
+    "Value": 1
+  },
+  {
+    "Hash": 2557145736,
+    "FactName": "sts_hey_spr_tier_4",
+    "Value": 1
+  },
+  {
+    "Hash": 2557693805,
+    "FactName": "la_robbery_02",
+    "Value": 0
+  },
+  {
+    "Hash": 2562246389,
+    "FactName": "q104_panam_leads_to_gas",
+    "Value": 1
+  },
+  {
+    "Hash": 2564733284,
+    "FactName": "kab_05_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 2568317174,
+    "FactName": "q104_active",
+    "Value": 0
+  },
+  {
+    "Hash": 2577509227,
+    "FactName": "holo_v_calls_judy_end",
+    "Value": 0
+  },
+  {
+    "Hash": 2579006557,
+    "FactName": "holo_mr_hands_calls_v_end_count",
+    "Value": 2
+  },
+  {
+    "Hash": 2592116974,
+    "FactName": "ma_wat_lch_107_start",
+    "Value": 1
+  },
+  {
+    "Hash": 2594528765,
+    "FactName": "ma_std_rcr_11_signpost_start",
+    "Value": 1
+  },
+  {
+    "Hash": 2596451723,
+    "FactName": "sts_wbr_hil_tier_4",
+    "Value": 1
+  },
+  {
+    "Hash": 2597107026,
+    "FactName": "ina_03_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 2598423781,
+    "FactName": "sq004_panam_on_bike",
+    "Value": 1
+  },
+  {
+    "Hash": 2600497798,
+    "FactName": "cs_bls_ina_se5_conv_disabled",
+    "Value": 0
+  },
+  {
+    "Hash": 2601444435,
+    "FactName": "holo_cynthia_calls_v_end_count",
+    "Value": 1
+  },
+  {
+    "Hash": 2614067501,
+    "FactName": "encoded_shard_tutorial_seen",
+    "Value": 1
+  },
+  {
+    "Hash": 2614531159,
+    "FactName": "mama_is_talking",
+    "Value": 0
+  },
+  {
+    "Hash": 2615725576,
+    "FactName": "ma_wat_lch_11_start",
+    "Value": 1
+  },
+  {
+    "Hash": 2616968554,
+    "FactName": "ma_std_arr_104_start",
+    "Value": 1
+  },
+  {
+    "Hash": 2623346453,
+    "FactName": "sq027_prep_bob_mitch_override",
+    "Value": 1
+  },
+  {
+    "Hash": 2624073123,
+    "FactName": "q103_gt_drive_dialogue_talking",
+    "Value": 1
+  },
+  {
+    "Hash": 2625888975,
+    "FactName": "q001_dex_ride_skipped",
+    "Value": 1
+  },
+  {
+    "Hash": 2631856793,
+    "FactName": "kab_02_operation_performed",
+    "Value": 1
+  },
+  {
+    "Hash": 2632692117,
+    "FactName": "ce_wat_lch_03_active",
+    "Value": 0
+  },
+  {
+    "Hash": 2634392522,
+    "FactName": "q005_safe_scanned",
+    "Value": 1
+  },
+  {
+    "Hash": 2635882748,
+    "FactName": "wat_kab_clothes_01_met",
+    "Value": 1
+  },
+  {
+    "Hash": 2638767556,
+    "FactName": "q104_drone_comment",
+    "Value": 0
+  },
+  {
+    "Hash": 2641033831,
+    "FactName": "sts_hey_spr_tier_1",
+    "Value": 1
+  },
+  {
+    "Hash": 2642435041,
+    "FactName": "sq027_panam_searching",
+    "Value": 0
+  },
+  {
+    "Hash": 2644474343,
+    "FactName": "cs_wat_kab_kabuki_roundabout_001_triggered",
+    "Value": 1
+  },
+  {
+    "Hash": 2646846202,
+    "FactName": "sq027_declared_together",
+    "Value": 1
+  },
+  {
+    "Hash": 2646937354,
+    "FactName": "wbr_achievement",
+    "Value": 11
+  },
+  {
+    "Hash": 2648185493,
+    "FactName": "ma_std_rcr_11_signpost_ended",
+    "Value": 1
+  },
+  {
+    "Hash": 2657007423,
+    "FactName": "sq027_cassidy_guitar_check",
+    "Value": 1
+  },
+  {
+    "Hash": 2657811450,
+    "FactName": "sts_hey_spr_tier_2",
+    "Value": 1
+  },
+  {
+    "Hash": 2660484594,
+    "FactName": "ma_pac_cvi_05_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 2666444935,
+    "FactName": "jpn_05_nam_endings",
+    "Value": 1
+  },
+  {
+    "Hash": 2669777077,
+    "FactName": "mq040_mission_info",
+    "Value": 3
+  },
+  {
+    "Hash": 2670200166,
+    "FactName": "bg_metaquest2_tracking",
+    "Value": 1
+  },
+  {
+    "Hash": 2671484612,
+    "FactName": "kab_102_combat",
+    "Value": 1
+  },
+  {
+    "Hash": 2673514805,
+    "FactName": "sts_wat_nid_05_ce_after_start",
+    "Value": 1
+  },
+  {
+    "Hash": 2674589069,
+    "FactName": "sts_hey_spr_tier_3",
+    "Value": 1
+  },
+  {
+    "Hash": 2675582869,
+    "FactName": "cct_achievement",
+    "Value": 1
+  },
+  {
+    "Hash": 2689221065,
+    "FactName": "ma_hidden_stash_tutorial",
+    "Value": 2
+  },
+  {
+    "Hash": 2692611021,
+    "FactName": "holo_panam_calls_v_interrupted",
+    "Value": 0
+  },
+  {
+    "Hash": 2699215022,
+    "FactName": "kab_03_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 2700033003,
+    "FactName": "sts_cct_dtn_tier_4",
+    "Value": 1
+  },
+  {
+    "Hash": 2704745436,
+    "FactName": "ma_wat_kab_102_start",
+    "Value": 1
+  },
+  {
+    "Hash": 2707434169,
+    "FactName": "q103_terminal_used",
+    "Value": 1
+  },
+  {
+    "Hash": 2710037416,
+    "FactName": "holo_cynthia_calls_v_interrupted",
+    "Value": 0
+  },
+  {
+    "Hash": 2717814163,
+    "FactName": "de_wat_lch_06_active",
+    "Value": 0
+  },
+  {
+    "Hash": 2719853831,
+    "FactName": "mq012_kids_past_danger",
+    "Value": 1
+  },
+  {
+    "Hash": 2725185449,
+    "FactName": "q003_patricia_mentioned",
+    "Value": 1
+  },
+  {
+    "Hash": 2727202995,
+    "FactName": "mq001_hook_sent",
+    "Value": 1
+  },
+  {
+    "Hash": 2732783584,
+    "FactName": "ma_wat_lch_08_after",
+    "Value": 1
+  },
+  {
+    "Hash": 2734747424,
+    "FactName": "kab_03_johnny",
+    "Value": 1
+  },
+  {
+    "Hash": 2736212178,
+    "FactName": "glossary_nomads",
+    "Value": 1
+  },
+  {
+    "Hash": 2740981519,
+    "FactName": "lch_01_radio_stop",
+    "Value": 1
+  },
+  {
+    "Hash": 2742314185,
+    "FactName": "sq004_saul_morningafter_keepalive",
+    "Value": 1
+  },
+  {
+    "Hash": 2744786785,
+    "FactName": "takemura_default_on",
+    "Value": 1
+  },
+  {
+    "Hash": 2746574600,
+    "FactName": "q103_gt_recon_scan",
+    "Value": 11
+  },
+  {
+    "Hash": 2747554995,
+    "FactName": "rey_09_unplug",
+    "Value": 1
+  },
+  {
+    "Hash": 2750365860,
+    "FactName": "sts_cct_dtn_tier_1",
+    "Value": 1
+  },
+  {
+    "Hash": 2755557213,
+    "FactName": "holo_v_calls_pepe_end",
+    "Value": 0
+  },
+  {
+    "Hash": 2759323256,
+    "FactName": "ma_wbr_jpn_15_finished",
+    "Value": 2
+  },
+  {
+    "Hash": 2760976955,
+    "FactName": "ma_wat_lch_104_start",
+    "Value": 1
+  },
+  {
+    "Hash": 2767654821,
+    "FactName": "jpn_12a_start",
+    "Value": 1
+  },
+  {
+    "Hash": 2774348395,
+    "FactName": "sq027_panam_campfire_keepalive",
+    "Value": 0
+  },
+  {
+    "Hash": 2775579422,
+    "FactName": "nid_12_shortcut_door_opened",
+    "Value": 1
+  },
+  {
+    "Hash": 2779020749,
+    "FactName": "ma_wbr_jpn_108_start",
+    "Value": 1
+  },
+  {
+    "Hash": 2783921098,
+    "FactName": "sts_cct_dtn_tier_3",
+    "Value": 1
+  },
+  {
+    "Hash": 2785710480,
+    "FactName": "jpn_01_second_part",
+    "Value": 1
+  },
+  {
+    "Hash": 2790923855,
+    "FactName": "cs_wbr_hil_road_disabled",
+    "Value": 0
+  },
+  {
+    "Hash": 2798950288,
+    "FactName": "ma_nid_23_start",
+    "Value": 1
+  },
+  {
+    "Hash": 2800698717,
+    "FactName": "sts_cct_dtn_tier_2",
+    "Value": 1
+  },
+  {
+    "Hash": 2804438770,
+    "FactName": "ma_rcr_16_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 2810374204,
+    "FactName": "q103_battery_used",
+    "Value": 1
+  },
+  {
+    "Hash": 2822804142,
+    "FactName": "nid_04_start",
+    "Value": 1
+  },
+  {
+    "Hash": 2823095321,
+    "FactName": "kab_04_start",
+    "Value": 1
+  },
+  {
+    "Hash": 2827541806,
+    "FactName": "ma_wat_lch_04_start",
+    "Value": 1
+  },
+  {
+    "Hash": 2833546617,
+    "FactName": "holo_dakota_calls_v_end",
+    "Value": 0
+  },
+  {
+    "Hash": 2837401106,
+    "FactName": "holo_elizabeth_calls_v_start_count",
+    "Value": 1
+  },
+  {
+    "Hash": 2838213027,
+    "FactName": "sq027_active",
+    "Value": 1
+  },
+  {
+    "Hash": 2838294143,
+    "FactName": "holo_muamar_calls_v_start_activate",
+    "Value": 0
+  },
+  {
+    "Hash": 2840865825,
+    "FactName": "cs_dancefloor_on",
+    "Value": 1
+  },
+  {
+    "Hash": 2845098506,
+    "FactName": "mq012_stud_stop_pose",
+    "Value": 1
+  },
+  {
+    "Hash": 2848598431,
+    "FactName": "ma_kab_12_start",
+    "Value": 1
+  },
+  {
+    "Hash": 2848657217,
+    "FactName": "transition_anim_start",
+    "Value": 1
+  },
+  {
+    "Hash": 2859216705,
+    "FactName": "de_pac_wwd_04_unassigned",
+    "Value": 1
+  },
+  {
+    "Hash": 2872409658,
+    "FactName": "crack_lock_tutorial_seen",
+    "Value": 2
+  },
+  {
+    "Hash": 2877036338,
+    "FactName": "cs_lch_inv_008_triggered",
+    "Value": 1
+  },
+  {
+    "Hash": 2881742413,
+    "FactName": "sq027_campfire_panam_sees_stars",
+    "Value": 1
+  },
+  {
+    "Hash": 2885372814,
+    "FactName": "ma_jpn_19_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 2892360260,
+    "FactName": "nid_03_every_enemy_seated2nd",
+    "Value": 2
+  },
+  {
+    "Hash": 2892887152,
+    "FactName": "sts_hey_gle_tier_1",
+    "Value": 1
+  },
+  {
+    "Hash": 2893048140,
+    "FactName": "kab_02_blood_injected",
+    "Value": 1
+  },
+  {
+    "Hash": 2900651770,
+    "FactName": "holo_v_calls_pepe_interrupted",
+    "Value": 0
+  },
+  {
+    "Hash": 2900766003,
+    "FactName": "q104_calibration_drone_hit",
+    "Value": 3
+  },
+  {
+    "Hash": 2901221657,
+    "FactName": "sq004_teddy_keepalive_intro01",
+    "Value": 1
+  },
+  {
+    "Hash": 2903141984,
+    "FactName": "nid_04_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 2904439942,
+    "FactName": "kab_04_activated",
+    "Value": 1
+  },
+  {
+    "Hash": 2915435835,
+    "FactName": "sq004_saulcabin_keepalive",
+    "Value": 0
+  },
+  {
+    "Hash": 2916063498,
+    "FactName": "sq004_carol_keepalive_intro01",
+    "Value": 1
+  },
+  {
+    "Hash": 2918615875,
+    "FactName": "glossary_6thstreet",
+    "Value": 1
+  },
+  {
+    "Hash": 2919280051,
+    "FactName": "mq012_disabled_truck_blockade",
+    "Value": 1
+  },
+  {
+    "Hash": 2922139472,
+    "FactName": "q005_01_dex_takes_45",
+    "Value": 1
+  },
+  {
+    "Hash": 2926442390,
+    "FactName": "sts_hey_gle_tier_3",
+    "Value": 1
+  },
+  {
+    "Hash": 2930658066,
+    "FactName": "jpn_05_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 2931514127,
+    "FactName": "ma_jpn_07_start",
+    "Value": 1
+  },
+  {
+    "Hash": 2940687655,
+    "FactName": "lch_03_combat_started",
+    "Value": 1
+  },
+  {
+    "Hash": 2943220009,
+    "FactName": "sts_hey_gle_tier_2",
+    "Value": 1
+  },
+  {
+    "Hash": 2961076221,
+    "FactName": "sq027_arrival_panamnotmad",
+    "Value": 1
+  },
+  {
+    "Hash": 2964373183,
+    "FactName": "sq023_joshua_introduced",
+    "Value": 1
+  },
+  {
+    "Hash": 2965179060,
+    "FactName": "holo_mr_hands_calls_v_start_activate",
+    "Value": 0
+  },
+  {
+    "Hash": 2965270908,
+    "FactName": "ma_jpn_20_start",
+    "Value": 1
+  },
+  {
+    "Hash": 2965868024,
+    "FactName": "jpn_01_sergei_moves",
+    "Value": 1
+  },
+  {
+    "Hash": 2971668861,
+    "FactName": "q103_ghost_cleaned",
+    "Value": 1
+  },
+  {
+    "Hash": 2976775247,
+    "FactName": "sts_hey_gle_tier_4",
+    "Value": 1
+  },
+  {
+    "Hash": 2980478421,
+    "FactName": "nid_12_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 2982106015,
+    "FactName": "holo_dino_calls_v_end",
+    "Value": 0
+  },
+  {
+    "Hash": 2986287278,
+    "FactName": "holo_v_calls_judy_start_activate",
+    "Value": 0
+  },
+  {
+    "Hash": 2991750979,
+    "FactName": "ma_nid_22_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 2992234556,
+    "FactName": "kab_05_shard_looted",
+    "Value": 1
+  },
+  {
+    "Hash": 3000835941,
+    "FactName": "sq027_ambush_drive_start",
+    "Value": 1
+  },
+  {
+    "Hash": 3003583230,
+    "FactName": "sts_wat_nid_03_completed",
+    "Value": 1
+  },
+  {
+    "Hash": 3008828223,
+    "FactName": "swimming_tutorial",
+    "Value": 1
+  },
+  {
+    "Hash": 3015088205,
+    "FactName": "ma_pac_wwd_105_start",
+    "Value": 1
+  },
+  {
+    "Hash": 3015901543,
+    "FactName": "q001_checked_stash",
+    "Value": 1
+  },
+  {
+    "Hash": 3017504847,
+    "FactName": "ma_nid_08_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 3018589960,
+    "FactName": "sq004_panam_introscene_phase",
+    "Value": 2
+  },
+  {
+    "Hash": 3021773389,
+    "FactName": "mq033_current_count",
+    "Value": 3
+  },
+  {
+    "Hash": 3027844931,
+    "FactName": "ce_wat_kab_10_completed",
+    "Value": 2
+  },
+  {
+    "Hash": 3038009845,
+    "FactName": "holo_panam_calls_v_start_activate",
+    "Value": 0
+  },
+  {
+    "Hash": 3040635933,
+    "FactName": "kab_07_jotaro_killed",
+    "Value": 1
+  },
+  {
+    "Hash": 3049955544,
+    "FactName": "police_system_tutorial",
+    "Value": 1
+  },
+  {
+    "Hash": 3059360621,
+    "FactName": "skillcheck_tutorial",
+    "Value": 1
+  },
+  {
+    "Hash": 3060421120,
+    "FactName": "ma_wat_nid_22_audio",
+    "Value": 4
+  },
+  {
+    "Hash": 3060784717,
+    "FactName": "ce_wat_kab_20_active",
+    "Value": 1
+  },
+  {
+    "Hash": 3062895629,
+    "FactName": "#ina_03_antenna_explained",
+    "Value": 2
+  },
+  {
+    "Hash": 3066317988,
+    "FactName": "sq004_bob_keepalive_intro01",
+    "Value": 1
+  },
+  {
+    "Hash": 3067896477,
+    "FactName": "holo_mr_stud_calls_v_end_count",
+    "Value": 1
+  },
+  {
+    "Hash": 3069781103,
+    "FactName": "holo_mr_hands_calls_v_end_activate",
+    "Value": 0
+  },
+  {
+    "Hash": 3071434891,
+    "FactName": "kab_06_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 3072391577,
+    "FactName": "cvi_02_start",
+    "Value": 1
+  },
+  {
+    "Hash": 3073425751,
+    "FactName": "tutorial_fast_travel",
+    "Value": 1
+  },
+  {
+    "Hash": 3079212809,
+    "FactName": "sts_wat_nid_04_recording",
+    "Value": 1
+  },
+  {
+    "Hash": 3081764080,
+    "FactName": "holo_mr_stud_calls_v_start_count",
+    "Value": 1
+  },
+  {
+    "Hash": 3088908725,
+    "FactName": "ma_kab_016_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 3092901012,
+    "FactName": "nid_01_lizzie_psycho_info",
+    "Value": 1
+  },
+  {
+    "Hash": 3093660311,
+    "FactName": "glossary_revere_courier",
+    "Value": 1
+  },
+  {
+    "Hash": 3094328791,
+    "FactName": "sq027_search_spot_correct_conclusion",
+    "Value": 1
+  },
+  {
+    "Hash": 3095307020,
+    "FactName": "sq027_03_mitch_in_place",
+    "Value": 1
+  },
+  {
+    "Hash": 3095595661,
+    "FactName": "ma_jpn_09_start",
+    "Value": 1
+  },
+  {
+    "Hash": 3103462227,
+    "FactName": "ce_wat_kab_03_completed",
+    "Value": 1
+  },
+  {
+    "Hash": 3103922554,
+    "FactName": "ma_rcr_07_start",
+    "Value": 1
+  },
+  {
+    "Hash": 3104864881,
+    "FactName": "sq004_intro_vets_diag_off",
+    "Value": 0
+  },
+  {
+    "Hash": 3111019926,
+    "FactName": "q103_rogue_met",
+    "Value": 1
+  },
+  {
+    "Hash": 3111071119,
+    "FactName": "sq027_panam_stop_pace",
+    "Value": 1
+  },
+  {
+    "Hash": 3117495712,
+    "FactName": "ma_hey_rey_01_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 3121569660,
+    "FactName": "mq032_monk1_met",
+    "Value": 1
+  },
+  {
+    "Hash": 3126698357,
+    "FactName": "nid_03_enemy_wave_spawn",
+    "Value": 1
+  },
+  {
+    "Hash": 3129324214,
+    "FactName": "kab_07_fixer_car_drives_away",
+    "Value": 1
+  },
+  {
+    "Hash": 3132805819,
+    "FactName": "nid_03_detected",
+    "Value": 1
+  },
+  {
+    "Hash": 3140980329,
+    "FactName": "ma_pac_wwd_101_start",
+    "Value": 1
+  },
+  {
+    "Hash": 3151122951,
+    "FactName": "q112_active",
+    "Value": 1
+  },
+  {
+    "Hash": 3151133002,
+    "FactName": "de_wbr_hil_04_active",
+    "Value": 0
+  },
+  {
+    "Hash": 3154912645,
+    "FactName": "cs_pac_wwd_investigation_disabled",
+    "Value": 0
+  },
+  {
+    "Hash": 3156324480,
+    "FactName": "rey_09_after_sms",
+    "Value": 1
+  },
+  {
+    "Hash": 3166958807,
+    "FactName": "ma_wat_lch_14_finished",
+    "Value": 2
+  },
+  {
+    "Hash": 3170441829,
+    "FactName": "max_jones_default_on",
+    "Value": 1
+  },
+  {
+    "Hash": 3175421651,
+    "FactName": "ma_kab_16_start",
+    "Value": 1
+  },
+  {
+    "Hash": 3175742873,
+    "FactName": "holo_v_calls_panam_interrupted",
+    "Value": 0
+  },
+  {
+    "Hash": 3183922825,
+    "FactName": "q104_iguana_ask",
+    "Value": 1
+  },
+  {
+    "Hash": 3189639889,
+    "FactName": "kab_02_take_blood",
+    "Value": 1
+  },
+  {
+    "Hash": 3192511447,
+    "FactName": "sq004_panamcabin_keepalive",
+    "Value": 0
+  },
+  {
+    "Hash": 3198492192,
+    "FactName": "holo_muamar_calls_v_end_count",
+    "Value": 2
+  },
+  {
+    "Hash": 3199198496,
+    "FactName": "sq027_bob_is_drinking",
+    "Value": 0
+  },
+  {
+    "Hash": 3210427737,
+    "FactName": "q103_panam_met",
+    "Value": 1
+  },
+  {
+    "Hash": 3211305390,
+    "FactName": "sq027_panam_windowtrain__vtalk_keepalive",
+    "Value": 0
+  },
+  {
+    "Hash": 3216673475,
+    "FactName": "q104_crash_site_mitch_stopped_walking",
+    "Value": 1
+  },
+  {
+    "Hash": 3216987705,
+    "FactName": "sq027_panam_drivewait_keepalive",
+    "Value": 0
+  },
+  {
+    "Hash": 3218451133,
+    "FactName": "nid_12_mj_speaker_cut",
+    "Value": 1
+  },
+  {
+    "Hash": 3223350238,
+    "FactName": "ma_cct_cpz_15_start",
+    "Value": 1
+  },
+  {
+    "Hash": 3238581534,
+    "FactName": "holo_v_calls_panam_end_count",
+    "Value": 1
+  },
+  {
+    "Hash": 3257449544,
+    "FactName": "kab_02_chester_talk",
+    "Value": 1
+  },
+  {
+    "Hash": 3280230808,
+    "FactName": "sq027_mitch_table_keepalive",
+    "Value": 0
+  },
+  {
+    "Hash": 3280716852,
+    "FactName": "ma_wbr_jpn_19_finished",
+    "Value": 2
+  },
+  {
+    "Hash": 3282056166,
+    "FactName": "sq027_ambush_panam_keepalive",
+    "Value": 0
+  },
+  {
+    "Hash": 3282449514,
+    "FactName": "kab_05_start",
+    "Value": 1
+  },
+  {
+    "Hash": 3284652410,
+    "FactName": "sq004_back_to_family",
+    "Value": 1
+  },
+  {
+    "Hash": 3316212742,
+    "FactName": "ma_nid_03_community_after",
+    "Value": 1
+  },
+  {
+    "Hash": 3321934425,
+    "FactName": "cassidy_default_on",
+    "Value": 1
+  },
+  {
+    "Hash": 3322164107,
+    "FactName": "la_street_violence_02",
+    "Value": 1
+  },
+  {
+    "Hash": 3326759773,
+    "FactName": "nid_12_car_left",
+    "Value": 1
+  },
+  {
+    "Hash": 3328936544,
+    "FactName": "ma_std_rcr_11_deal_read",
+    "Value": 1
+  },
+  {
+    "Hash": 3338941726,
+    "FactName": "la_street_violence_01",
+    "Value": 0
+  },
+  {
+    "Hash": 3344947970,
+    "FactName": "ma_arr_10_start",
+    "Value": 1
+  },
+  {
+    "Hash": 3345099980,
+    "FactName": "ma_pac_cvi_12_start",
+    "Value": 1
+  },
+  {
+    "Hash": 3346655137,
+    "FactName": "cs_std_arr_road_disabled",
+    "Value": 0
+  },
+  {
+    "Hash": 3356486590,
+    "FactName": "mq040_done",
+    "Value": 1
+  },
+  {
+    "Hash": 3363627821,
+    "FactName": "gmpl_player_blocked_attack",
+    "Value": 11
+  },
+  {
+    "Hash": 3370287141,
+    "FactName": "mq001_active",
+    "Value": 0
+  },
+  {
+    "Hash": 3376019000,
+    "FactName": "nid_02_start",
+    "Value": 1
+  },
+  {
+    "Hash": 3379635888,
+    "FactName": "ma_jpn_15_start",
+    "Value": 1
+  },
+  {
+    "Hash": 3390055539,
+    "FactName": "lch_03_optional_alarm",
+    "Value": 1
+  },
+  {
+    "Hash": 3391202160,
+    "FactName": "holo_mr_hands_reveal",
+    "Value": 0
+  },
+  {
+    "Hash": 3394228457,
+    "FactName": "nid_12_mj_speaker2_done",
+    "Value": 1
+  },
+  {
+    "Hash": 3395345436,
+    "FactName": "sq032_sickness_nosebleed",
+    "Value": 0
+  },
+  {
+    "Hash": 3403120732,
+    "FactName": "ma_rcr_12_start",
+    "Value": 1
+  },
+  {
+    "Hash": 3403963976,
+    "FactName": "kab_04_finished_talk",
+    "Value": 1
+  },
+  {
+    "Hash": 3404025641,
+    "FactName": "kab_04_no_combat",
+    "Value": 1
+  },
+  {
+    "Hash": 3412440778,
+    "FactName": "sq027_mitch_busy",
+    "Value": 0
+  },
+  {
+    "Hash": 3413964478,
+    "FactName": "q104_crash_site_mitch_done",
+    "Value": 1
+  },
+  {
+    "Hash": 3422043260,
+    "FactName": "#ina_03_ready",
+    "Value": 1
+  },
+  {
+    "Hash": 3423321648,
+    "FactName": "lucy_thackery_default_on",
+    "Value": 1
+  },
+  {
+    "Hash": 3425775822,
+    "FactName": "q001_scavengers_talk_finish",
+    "Value": 1
+  },
+  {
+    "Hash": 3429900428,
+    "FactName": "wakako_okada_default_on",
+    "Value": 0
+  },
+  {
+    "Hash": 3432390756,
+    "FactName": "ma_wat_lch_13_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 3444934392,
+    "FactName": "carol_default_on",
+    "Value": 1
+  },
+  {
+    "Hash": 3446971736,
+    "FactName": "web_vistadelray",
+    "Value": 0
+  },
+  {
+    "Hash": 3447479121,
+    "FactName": "holo_wilson_calls_v_end_activate",
+    "Value": 0
+  },
+  {
+    "Hash": 3448667907,
+    "FactName": "jpn_12_movable_object_scanned",
+    "Value": 1
+  },
+  {
+    "Hash": 3449466021,
+    "FactName": "sts_wat_kab_04_distracted_01_return_01",
+    "Value": 1
+  },
+  {
+    "Hash": 3449812444,
+    "FactName": "ma_wbr_hil_108_start",
+    "Value": 1
+  },
+  {
+    "Hash": 3450932801,
+    "FactName": "sq027_turret_overheated",
+    "Value": 1
+  },
+  {
+    "Hash": 3453823239,
+    "FactName": "sts_wat_kab_101_wait_done",
+    "Value": 1
+  },
+  {
+    "Hash": 3454521958,
+    "FactName": "q104_plant_surpressed",
+    "Value": 1
+  },
+  {
+    "Hash": 3454644673,
+    "FactName": "holo_dino_calls_v_end_activate",
+    "Value": 0
+  },
+  {
+    "Hash": 3458813405,
+    "FactName": "lch_01_start",
+    "Value": 1
+  },
+  {
+    "Hash": 3460941602,
+    "FactName": "mq040_wife_story_heard",
+    "Value": 1
+  },
+  {
+    "Hash": 3462388778,
+    "FactName": "nid_12_mj_speaker1_done",
+    "Value": 1
+  },
+  {
+    "Hash": 3492915519,
+    "FactName": "q104_carrying_ander_j_comment",
+    "Value": 1
+  },
+  {
+    "Hash": 3495682666,
+    "FactName": "sq004_active",
+    "Value": 0
+  },
+  {
+    "Hash": 3495715135,
+    "FactName": "ma_std_rcr_11_signpost_combat",
+    "Value": 1
+  },
+  {
+    "Hash": 3499033323,
+    "FactName": "kab_05_after_confrontation",
+    "Value": 1
+  },
+  {
+    "Hash": 3501449444,
+    "FactName": "ma_wat_nid_02_community_after",
+    "Value": 1
+  },
+  {
+    "Hash": 3513021922,
+    "FactName": "ow_psychos_done",
+    "Value": 5
+  },
+  {
+    "Hash": 3513166371,
+    "FactName": "mq032_01_whatIgnorance",
+    "Value": 1
+  },
+  {
+    "Hash": 3515238290,
+    "FactName": "ma_std_rcr_104_start",
+    "Value": 1
+  },
+  {
+    "Hash": 3515262361,
+    "FactName": "ma_ina_se1_07_start",
+    "Value": 1
+  },
+  {
+    "Hash": 3515427186,
+    "FactName": "ina_03_community_start",
+    "Value": 1
+  },
+  {
+    "Hash": 3516956049,
+    "FactName": "cs_std_arr_investigation_disabled",
+    "Value": 0
+  },
+  {
+    "Hash": 3520938702,
+    "FactName": "ma_jpn_20_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 3523269353,
+    "FactName": "web_coastview",
+    "Value": 0
+  },
+  {
+    "Hash": 3525328811,
+    "FactName": "q103_bilboard_blown",
+    "Value": 1
+  },
+  {
+    "Hash": 3527348394,
+    "FactName": "sq027_mitch_can_talk",
+    "Value": 1
+  },
+  {
+    "Hash": 3533138544,
+    "FactName": "q103_gt_drive_skipped",
+    "Value": 1
+  },
+  {
+    "Hash": 3548035879,
+    "FactName": "ma_wwd_05_start",
+    "Value": 1
+  },
+  {
+    "Hash": 3551201282,
+    "FactName": "sq004_carol_disable_lookats",
+    "Value": 1
+  },
+  {
+    "Hash": 3555472430,
+    "FactName": "mq024_hacked_data_carrier",
+    "Value": 1
+  },
+  {
+    "Hash": 3562279662,
+    "FactName": "wat_kab_foodshop_04_default_on",
+    "Value": 1
+  },
+  {
+    "Hash": 3566154204,
+    "FactName": "ma_wat_lch_15_start",
+    "Value": 1
+  },
+  {
+    "Hash": 3566465412,
+    "FactName": "sts_wbr_jpn_tier_4",
+    "Value": 1
+  },
+  {
+    "Hash": 3572693116,
+    "FactName": "holo_v_calls_pepe_start_activate",
+    "Value": 0
+  },
+  {
+    "Hash": 3573890013,
+    "FactName": "holo_elizabeth_calls_v_end_activate",
+    "Value": 0
+  },
+  {
+    "Hash": 3575303340,
+    "FactName": "wwd_ripdoc_01_met",
+    "Value": 1
+  },
+  {
+    "Hash": 3585479448,
+    "FactName": "q104_plant_surpressed_3",
+    "Value": 1
+  },
+  {
+    "Hash": 3594438129,
+    "FactName": "spr_03_community_start",
+    "Value": 1
+  },
+  {
+    "Hash": 3596245674,
+    "FactName": "holo_dino_calls_v_start_activate",
+    "Value": 0
+  },
+  {
+    "Hash": 3597829292,
+    "FactName": "ma_kab_08_start",
+    "Value": 1
+  },
+  {
+    "Hash": 3602257067,
+    "FactName": "q104_plant_surpressed_2",
+    "Value": 1
+  },
+  {
+    "Hash": 3603623905,
+    "FactName": "sq027_bob_campfire_keepalive",
+    "Value": 1
+  },
+  {
+    "Hash": 3605715097,
+    "FactName": "cs_hey_rey_01_sts_002_triggered",
+    "Value": 1
+  },
+  {
+    "Hash": 3614959911,
+    "FactName": "glossary_tc",
+    "Value": 1
+  },
+  {
+    "Hash": 3617762981,
+    "FactName": "cs_wat_kab_kabuki_roundabout_001_seen",
+    "Value": 1
+  },
+  {
+    "Hash": 3619151180,
+    "FactName": "sts_wat_nid_03_bugfixing",
+    "Value": 1
+  },
+  {
+    "Hash": 3622149567,
+    "FactName": "bg_metaquest3_tracking",
+    "Value": 1
+  },
+  {
+    "Hash": 3625198760,
+    "FactName": "sq027_junction_reached",
+    "Value": 1
+  },
+  {
+    "Hash": 3627644054,
+    "FactName": "q103_sick_afterlife",
+    "Value": 1
+  },
+  {
+    "Hash": 3635938167,
+    "FactName": "la_execution_01",
+    "Value": 0
+  },
+  {
+    "Hash": 3639497383,
+    "FactName": "ma_kab_09_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 3644811233,
+    "FactName": "gmpl_npc_hit_by_melee_strongs",
+    "Value": 80
+  },
+  {
+    "Hash": 3652234088,
+    "FactName": "ma_rcr_18_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 3656216844,
+    "FactName": "ma_wat_nid_31_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 3663092859,
+    "FactName": "holo_cynthia_calls_v_end",
+    "Value": 0
+  },
+  {
+    "Hash": 3663130707,
+    "FactName": "ma_nid_08_start",
+    "Value": 1
+  },
+  {
+    "Hash": 3666722334,
+    "FactName": "jpn_03_start",
+    "Value": 1
+  },
+  {
+    "Hash": 3669493405,
+    "FactName": "la_execution_03",
+    "Value": 0
+  },
+  {
+    "Hash": 3678154410,
+    "FactName": "sq027_bob_table_keepalive",
+    "Value": 0
+  },
+  {
+    "Hash": 3684247008,
+    "FactName": "ma_wwd_02_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 3685368992,
+    "FactName": "holo_v_calls_takemura_start_activate",
+    "Value": 0
+  },
+  {
+    "Hash": 3687322557,
+    "FactName": "mq001_funeral_start",
+    "Value": 1
+  },
+  {
+    "Hash": 3696599000,
+    "FactName": "holo_v_calls_reggie_end_activate",
+    "Value": 0
+  },
+  {
+    "Hash": 3700977814,
+    "FactName": "holo_v_calls_takemura_interrupted",
+    "Value": 0
+  },
+  {
+    "Hash": 3702057514,
+    "FactName": "kab_102_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 3702746244,
+    "FactName": "claire_talk",
+    "Value": 1
+  },
+  {
+    "Hash": 3704719031,
+    "FactName": "ce_wat_kab_07_completed",
+    "Value": 1
+  },
+  {
+    "Hash": 3705356324,
+    "FactName": "sts_wbr_jpn_05_nam_found",
+    "Value": 1
+  },
+  {
+    "Hash": 3710968431,
+    "FactName": "glossary_kangtao",
+    "Value": 1
+  },
+  {
+    "Hash": 3711220803,
+    "FactName": "TunnelDone",
+    "Value": 1
+  },
+  {
+    "Hash": 3711395360,
+    "FactName": "wbr_jpn_netrun_01_service",
+    "Value": 1
+  },
+  {
+    "Hash": 3717632443,
+    "FactName": "#ina_03_shortcut",
+    "Value": 1
+  },
+  {
+    "Hash": 3724801005,
+    "FactName": "kab_02_call",
+    "Value": 1
+  },
+  {
+    "Hash": 3724835019,
+    "FactName": "glossary_animals",
+    "Value": 2
+  },
+  {
+    "Hash": 3734188382,
+    "FactName": "holo_v_calls_judy_start",
+    "Value": 0
+  },
+  {
+    "Hash": 3738635483,
+    "FactName": "cs_lch_afterlife_002_triggered",
+    "Value": 1
+  },
+  {
+    "Hash": 3740146404,
+    "FactName": "holo_muamar_calls_v_end_activate",
+    "Value": 0
+  },
+  {
+    "Hash": 3741778013,
+    "FactName": "q105_00_judy_heard_heist",
+    "Value": 1
+  },
+  {
+    "Hash": 3746955460,
+    "FactName": "kab_07_done",
+    "Value": 1
+  },
+  {
+    "Hash": 3748143632,
+    "FactName": "sq004_done",
+    "Value": 1
+  },
+  {
+    "Hash": 3750825412,
+    "FactName": "de_wat_lch_11_ignored_02",
+    "Value": 0
+  },
+  {
+    "Hash": 3759472444,
+    "FactName": "ma_jpn_19_start",
+    "Value": 1
+  },
+  {
+    "Hash": 3761355221,
+    "FactName": "q001_dialogue_tutorial_displayed",
+    "Value": 1
+  },
+  {
+    "Hash": 3766705092,
+    "FactName": "holo_v_calls_pepe_start",
+    "Value": 0
+  },
+  {
+    "Hash": 3771451067,
+    "FactName": "sq027_mitch_campfire_keepalive",
+    "Value": 1
+  },
+  {
+    "Hash": 3776695524,
+    "FactName": "ma_wat_lch_07_gangers_hit",
+    "Value": 3
+  },
+  {
+    "Hash": 3780874285,
+    "FactName": "bls_ina_1_gun_met",
+    "Value": 1
+  },
+  {
+    "Hash": 3789896287,
+    "FactName": "holo_v_calls_reggie_interrupted",
+    "Value": 0
+  },
+  {
+    "Hash": 3790969400,
+    "FactName": "sq027_locomotive_activated",
+    "Value": 1
+  },
+  {
+    "Hash": 3791714363,
+    "FactName": "loc_ma_hey_rey_111_start",
+    "Value": 1
+  },
+  {
+    "Hash": 3791879802,
+    "FactName": "sq004_panam_keepalive_intro01",
+    "Value": 1
+  },
+  {
+    "Hash": 3792397593,
+    "FactName": "wat_lch_melee_01_default_talking",
+    "Value": 0
+  },
+  {
+    "Hash": 3793918045,
+    "FactName": "bg_metaquest1_tracking",
+    "Value": 2
+  },
+  {
+    "Hash": 3796422811,
+    "FactName": "holo_panam_calls_v_start_count",
+    "Value": 2
+  },
+  {
+    "Hash": 3807553421,
+    "FactName": "gmpl_npc_hit_by_melee_combofinal",
+    "Value": 35
+  },
+  {
+    "Hash": 3821978060,
+    "FactName": "sq027_panam_windowtrain_carol_keepalive",
+    "Value": 1
+  },
+  {
+    "Hash": 3825746489,
+    "FactName": "lch_05_start",
+    "Value": 1
+  },
+  {
+    "Hash": 3828393455,
+    "FactName": "ma_hey_rey_01_started",
+    "Value": 1
+  },
+  {
+    "Hash": 3828502535,
+    "FactName": "mq040_scanning_ongoing",
+    "Value": 0
+  },
+  {
+    "Hash": 3833023159,
+    "FactName": "q105_pre_judy_called",
+    "Value": 1
+  },
+  {
+    "Hash": 3838853465,
+    "FactName": "ma_hunt_for_psycho_tutorial",
+    "Value": 1
+  },
+  {
+    "Hash": 3843186763,
+    "FactName": "ma_std_arr_103_start",
+    "Value": 1
+  },
+  {
+    "Hash": 3846630542,
+    "FactName": "sq027_03_bob_in_place",
+    "Value": 1
+  },
+  {
+    "Hash": 3847462747,
+    "FactName": "ma_kab_09_start",
+    "Value": 1
+  },
+  {
+    "Hash": 3851868195,
+    "FactName": "sts_pac_cvi_tier_4",
+    "Value": 1
+  },
+  {
+    "Hash": 3852108347,
+    "FactName": "nid_03_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 3854193866,
+    "FactName": "la_street_violence_02_victim_on_ground",
+    "Value": 1
+  },
+  {
+    "Hash": 3855022089,
+    "FactName": "ma_rcr_11_active",
+    "Value": 0
+  },
+  {
+    "Hash": 3855223748,
+    "FactName": "holo_dakota_calls_v_start_count",
+    "Value": 3
+  },
+  {
+    "Hash": 3855669580,
+    "FactName": "ma_wat_lch_08_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 3863614920,
+    "FactName": "holo_dakota_calls_v_start",
+    "Value": 0
+  },
+  {
+    "Hash": 3876081362,
+    "FactName": "bls_ina_se1_ripperdoc_01_talked",
+    "Value": 1
+  },
+  {
+    "Hash": 3876636702,
+    "FactName": "ma_wat_lch_06_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 3882158632,
+    "FactName": "sts_std_rcr_tier_3",
+    "Value": 1
+  },
+  {
+    "Hash": 3892886904,
+    "FactName": "lch_06_radio_stop",
+    "Value": 1
+  },
+  {
+    "Hash": 3898439437,
+    "FactName": "cs_pac_wwd_road_disabled",
+    "Value": 1
+  },
+  {
+    "Hash": 3898936251,
+    "FactName": "sts_std_rcr_tier_2",
+    "Value": 1
+  },
+  {
+    "Hash": 3900121335,
+    "FactName": "lch_03_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 3901144405,
+    "FactName": "ma_jpn_01_start",
+    "Value": 1
+  },
+  {
+    "Hash": 3902201052,
+    "FactName": "sts_pac_cvi_tier_1",
+    "Value": 1
+  },
+  {
+    "Hash": 3902575255,
+    "FactName": "q000_kid_rick",
+    "Value": 1
+  },
+  {
+    "Hash": 3905589318,
+    "FactName": "sq027_carol_is_drinking",
+    "Value": 0
+  },
+  {
+    "Hash": 3906092966,
+    "FactName": "sq027_panam_stop_drinking",
+    "Value": 1
+  },
+  {
+    "Hash": 3909644288,
+    "FactName": "sq027_interlude_active",
+    "Value": 1
+  },
+  {
+    "Hash": 3910301463,
+    "FactName": "mq001_done",
+    "Value": 1
+  },
+  {
+    "Hash": 3913042608,
+    "FactName": "holo_v_calls_reggie_end",
+    "Value": 0
+  },
+  {
+    "Hash": 3915713870,
+    "FactName": "sts_std_rcr_tier_1",
+    "Value": 1
+  },
+  {
+    "Hash": 3923535888,
+    "FactName": "ma_nid_03_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 3930455559,
+    "FactName": "sq027_prep_teddy_cassidy_override",
+    "Value": 1
+  },
+  {
+    "Hash": 3935756290,
+    "FactName": "sts_pac_cvi_tier_3",
+    "Value": 1
+  },
+  {
+    "Hash": 3940414501,
+    "FactName": "sq027_03a_jackie_name",
+    "Value": 1
+  },
+  {
+    "Hash": 3941435511,
+    "FactName": "q005_01_hajime_asked",
+    "Value": 1
+  },
+  {
+    "Hash": 3943225670,
+    "FactName": "ma_std_arr_108_start",
+    "Value": 1
+  },
+  {
+    "Hash": 3944918647,
+    "FactName": "wat_lch_03_roh_saved",
+    "Value": 1
+  },
+  {
+    "Hash": 3949022740,
+    "FactName": "kab_02_transport_arrived",
+    "Value": 1
+  },
+  {
+    "Hash": 3952533909,
+    "FactName": "sts_pac_cvi_tier_2",
+    "Value": 1
+  },
+  {
+    "Hash": 3956055880,
+    "FactName": "mq032_saved",
+    "Value": 1
+  },
+  {
+    "Hash": 3956776928,
+    "FactName": "q103_rogue_done",
+    "Value": 1
+  },
+  {
+    "Hash": 3965798488,
+    "FactName": "sq027_switch_thrown",
+    "Value": 1
+  },
+  {
+    "Hash": 3975013718,
+    "FactName": "wwd_05_start",
+    "Value": 1
+  },
+  {
+    "Hash": 3978296875,
+    "FactName": "rey_09_normal",
+    "Value": 1
+  },
+  {
+    "Hash": 3984820699,
+    "FactName": "pac_achievement",
+    "Value": 5
+  },
+  {
+    "Hash": 3999043897,
+    "FactName": "holo_v_calls_takemura_end_count",
+    "Value": 1
+  },
+  {
+    "Hash": 4000883704,
+    "FactName": "q005_harsh_jackie",
+    "Value": 1
+  },
+  {
+    "Hash": 4002310966,
+    "FactName": "bls_dakota_met",
+    "Value": 1
+  },
+  {
+    "Hash": 4002344543,
+    "FactName": "mq033_grafitti_counter",
+    "Value": 3
+  },
+  {
+    "Hash": 4003777135,
+    "FactName": "q000_kid_02a_drove_away",
+    "Value": 1
+  },
+  {
+    "Hash": 4005430624,
+    "FactName": "sq027_panam_ambushdrive_keepalive",
+    "Value": 0
+  },
+  {
+    "Hash": 4008638395,
+    "FactName": "sq004_02_v_tough",
+    "Value": 1
+  },
+  {
+    "Hash": 4011885093,
+    "FactName": "panam_change_pose",
+    "Value": 1
+  },
+  {
+    "Hash": 4012573086,
+    "FactName": "sq027_queen_station_ace_time",
+    "Value": 0
+  },
+  {
+    "Hash": 4017793059,
+    "FactName": "ma_rcr_11_done",
+    "Value": 1
+  },
+  {
+    "Hash": 4018879910,
+    "FactName": "ma_nid_04_community",
+    "Value": 1
+  },
+  {
+    "Hash": 4021363269,
+    "FactName": "sq004_saul_position_known",
+    "Value": 1
+  },
+  {
+    "Hash": 4023467566,
+    "FactName": "kab_02_take_blood_pickup",
+    "Value": 1
+  },
+  {
+    "Hash": 4025415202,
+    "FactName": "mq012_stop_getting_out_of_vehicle",
+    "Value": 1
+  },
+  {
+    "Hash": 4025830250,
+    "FactName": "jpn_12_button_clicked",
+    "Value": 1
+  },
+  {
+    "Hash": 4033299159,
+    "FactName": "sq027_queen_ace_time",
+    "Value": 1
+  },
+  {
+    "Hash": 4034754324,
+    "FactName": "ma_nid_13_cs_start",
+    "Value": 1
+  },
+  {
+    "Hash": 4040128343,
+    "FactName": "sq027_can_v_has_drinkings",
+    "Value": 0
+  },
+  {
+    "Hash": 4040554881,
+    "FactName": "nid_05_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 4047193322,
+    "FactName": "ma_pac_cvi_07_start",
+    "Value": 1
+  },
+  {
+    "Hash": 4047948396,
+    "FactName": "loc_ma_hey_spr_102_start",
+    "Value": 1
+  },
+  {
+    "Hash": 4057475468,
+    "FactName": "sq027_carol_table_keepalive",
+    "Value": 0
+  },
+  {
+    "Hash": 4057925328,
+    "FactName": "q104_lookat_randomizer",
+    "Value": 1
+  },
+  {
+    "Hash": 4059986277,
+    "FactName": "sq027_ambush_cassidy_keepalive",
+    "Value": 0
+  },
+  {
+    "Hash": 4063597760,
+    "FactName": "sq027_03_carol_in_place",
+    "Value": 1
+  },
+  {
+    "Hash": 4065264999,
+    "FactName": "holo_v_calls_panam_start_count",
+    "Value": 1
+  },
+  {
+    "Hash": 4065299276,
+    "FactName": "holo_wilson_calls_v_interrupted",
+    "Value": 0
+  },
+  {
+    "Hash": 4074236755,
+    "FactName": "mr_hands_default_on",
+    "Value": 1
+  },
+  {
+    "Hash": 4075564953,
+    "FactName": "holo_v_calls_takemura_end",
+    "Value": 0
+  },
+  {
+    "Hash": 4080127664,
+    "FactName": "glossary_mikoshi",
+    "Value": 1
+  },
+  {
+    "Hash": 4080628077,
+    "FactName": "sq027_teddy_is_drinking",
+    "Value": 1
+  },
+  {
+    "Hash": 4084120610,
+    "FactName": "sq027_started",
+    "Value": 1
+  },
+  {
+    "Hash": 4088575948,
+    "FactName": "cct_cpz_cloth_02_met",
+    "Value": 1
+  },
+  {
+    "Hash": 4089095072,
+    "FactName": "q103_devices_unpowered",
+    "Value": 1
+  },
+  {
+    "Hash": 4096085323,
+    "FactName": "ma_arr_08_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 4098234130,
+    "FactName": "holo_v_calls_judy_start_count",
+    "Value": 1
+  },
+  {
+    "Hash": 4102430607,
+    "FactName": "kab_04_russians_killed",
+    "Value": 1
+  },
+  {
+    "Hash": 4103567078,
+    "FactName": "jpn_12_movable_fridge_activated",
+    "Value": 1
+  },
+  {
+    "Hash": 4104228743,
+    "FactName": "sq004_van_chase_pipe_var",
+    "Value": 1
+  },
+  {
+    "Hash": 4104328313,
+    "FactName": "nid_04_looted",
+    "Value": 1
+  },
+  {
+    "Hash": 4109936192,
+    "FactName": "holo_dakota_calls_v_start_activate",
+    "Value": 0
+  },
+  {
+    "Hash": 4114367593,
+    "FactName": "mq012_disable_blockade",
+    "Value": 0
+  },
+  {
+    "Hash": 4120585904,
+    "FactName": "ma_std_rcr_108_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 4132241030,
+    "FactName": "holo_wilson_calls_v_start_count",
+    "Value": 1
+  },
+  {
+    "Hash": 4149161976,
+    "FactName": "ma_wat_lch_07_cop_dead",
+    "Value": 1
+  },
+  {
+    "Hash": 4158651986,
+    "FactName": "sq012_started",
+    "Value": 1
+  },
+  {
+    "Hash": 4167289415,
+    "FactName": "mq010_active",
+    "Value": 1
+  },
+  {
+    "Hash": 4168336162,
+    "FactName": "sq027_panam_donewithsaul",
+    "Value": 1
+  },
+  {
+    "Hash": 4175861030,
+    "FactName": "mq011_active",
+    "Value": 1
+  },
+  {
+    "Hash": 4178956136,
+    "FactName": "sq004_cassidy_morningafter_keepalive",
+    "Value": 1
+  },
+  {
+    "Hash": 4179049902,
+    "FactName": "holo_elizabeth_calls_v_start_activate",
+    "Value": 0
+  },
+  {
+    "Hash": 4179547044,
+    "FactName": "holo_v_calls_takemura_start_count",
+    "Value": 1
+  },
+  {
+    "Hash": 4184769928,
+    "FactName": "sts_wat_lch_05_eye_implant",
+    "Value": 1
+  },
+  {
+    "Hash": 4186668112,
+    "FactName": "sq027_perform_CYB-592155_retrofix_check",
+    "Value": 1
+  },
+  {
+    "Hash": 4197442276,
+    "FactName": "glossary_cyberpsychosis",
+    "Value": 1
+  },
+  {
+    "Hash": 4198107335,
+    "FactName": "q103_panam_calling",
+    "Value": 1
+  },
+  {
+    "Hash": 4209223372,
+    "FactName": "nid_06_start",
+    "Value": 1
+  },
+  {
+    "Hash": 4211110071,
+    "FactName": "cs_wat_kab_inv_006_active",
+    "Value": 0
+  },
+  {
+    "Hash": 4213961036,
+    "FactName": "ma_wat_lch_06_start",
+    "Value": 1
+  },
+  {
+    "Hash": 4216032221,
+    "FactName": "q104_kang_droids_comment",
+    "Value": 0
+  },
+  {
+    "Hash": 4218634251,
+    "FactName": "nid_12_max_convinced",
+    "Value": 1
+  },
+  {
+    "Hash": 4219680158,
+    "FactName": "sq012_fact_eliz_called",
+    "Value": 1
+  },
+  {
+    "Hash": 4226834496,
+    "FactName": "glossary_raffenshiv",
+    "Value": 1
+  },
+  {
+    "Hash": 4233957537,
+    "FactName": "sq004_drone_gate_passed",
+    "Value": 1
+  },
+  {
+    "Hash": 4236149869,
+    "FactName": "hey_spr_ripperdoc_01_met",
+    "Value": 1
+  },
+  {
+    "Hash": 4240717878,
+    "FactName": "gmpl_npc_guardbreak",
+    "Value": 1
+  },
+  {
+    "Hash": 4241613129,
+    "FactName": "ma_wat_lch_01_start",
+    "Value": 1
+  },
+  {
+    "Hash": 4241670750,
+    "FactName": "kab_07_2nd_floor_cleared",
+    "Value": 1
+  },
+  {
+    "Hash": 4243425365,
+    "FactName": "holo_v_calls_pepe_end_count",
+    "Value": 1
+  },
+  {
+    "Hash": 4244815818,
+    "FactName": "kab_03_peace",
+    "Value": 0
+  },
+  {
+    "Hash": 4247332032,
+    "FactName": "nid_03_every_enemy_seated",
+    "Value": 2
+  },
+  {
+    "Hash": 4251480188,
+    "FactName": "nid_12_suc",
+    "Value": 1
+  },
+  {
+    "Hash": 4256277800,
+    "FactName": "la_street_violence_01_cut_2",
+    "Value": 0
+  },
+  {
+    "Hash": 4256574739,
+    "FactName": "sts_cct_cpz_tier_1",
+    "Value": 1
+  },
+  {
+    "Hash": 4259881302,
+    "FactName": "sq027_teddy_campfire_keepalive",
+    "Value": 1
+  },
+  {
+    "Hash": 4260623025,
+    "FactName": "nid_01_radio_start",
+    "Value": 1
+  },
+  {
+    "Hash": 4260878351,
+    "FactName": "cs_bls_ina_se5_intervention_disabled",
+    "Value": 0
+  },
+  {
+    "Hash": 4264053503,
+    "FactName": "ma_nid_22_start",
+    "Value": 1
+  },
+  {
+    "Hash": 4268581047,
+    "FactName": "q103_saul_info",
+    "Value": 1
+  },
+  {
+    "Hash": 4268999773,
+    "FactName": "jpn_02_start",
+    "Value": 1
+  },
+  {
+    "Hash": 4273352358,
+    "FactName": "sts_cct_cpz_tier_2",
+    "Value": 1
+  },
+  {
+    "Hash": 4273368467,
+    "FactName": "wbr_jpn_netrun_02_market_system_added",
+    "Value": 1
+  },
+  {
+    "Hash": 4278255874,
+    "FactName": "melee_deflect_tutorial",
+    "Value": 2
+  },
+  {
+    "Hash": 4278854388,
+    "FactName": "de_wbr_hil_02_active",
+    "Value": 0
+  },
+  {
+    "Hash": 4284924474,
+    "FactName": "execution_01_thx",
+    "Value": 1
+  },
+  {
+    "Hash": 4289757425,
+    "FactName": "jpn_02_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 4290129977,
+    "FactName": "sts_cct_cpz_tier_3",
+    "Value": 1
+  },
+  {
+    "Hash": 4293412555,
+    "FactName": "q104_haru_long_story",
+    "Value": 1
+  }
+]
