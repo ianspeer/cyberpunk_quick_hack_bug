@@ -1,0 +1,107 @@
+[
+  {
+    "Hash": 299233882,
+    "FactName": "sts_wat_nid_01_hal_anim_crossed",
+    "Value": 1
+  },
+  {
+    "Hash": 325751806,
+    "FactName": "sts_wat_kab_04_receptionist_sit_anim_done",
+    "Value": 1
+  },
+  {
+    "Hash": 659113716,
+    "FactName": "nid_01_hal_rescued",
+    "Value": 1
+  },
+  {
+    "Hash": 723789214,
+    "FactName": "nid_01_hal_position",
+    "Value": 1
+  },
+  {
+    "Hash": 965423040,
+    "FactName": "kab_05_bribe_accepted",
+    "Value": 1
+  },
+  {
+    "Hash": 996757344,
+    "FactName": "nid_01_player_escape",
+    "Value": 1
+  },
+  {
+    "Hash": 1184498327,
+    "FactName": "nid_01_lizzie_met",
+    "Value": 1
+  },
+  {
+    "Hash": 1306418838,
+    "FactName": "kab_05_shard",
+    "Value": 1
+  },
+  {
+    "Hash": 1398627618,
+    "FactName": "nid_01_psycho_dead",
+    "Value": 1
+  },
+  {
+    "Hash": 1450203435,
+    "FactName": "kab_ripperdoc_02_service_used",
+    "Value": 1
+  },
+  {
+    "Hash": 1704357453,
+    "FactName": "nid_01_hal_met",
+    "Value": 1
+  },
+  {
+    "Hash": 1830998327,
+    "FactName": "nid_01_weak",
+    "Value": 1
+  },
+  {
+    "Hash": 2299088082,
+    "FactName": "cs_wat_kab_investigation_001_triggered",
+    "Value": 1
+  },
+  {
+    "Hash": 2303954821,
+    "FactName": "nid_01_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 2564733284,
+    "FactName": "kab_05_finished",
+    "Value": 1
+  },
+  {
+    "Hash": 2673514805,
+    "FactName": "sts_wat_nid_05_ce_after_start",
+    "Value": 1
+  },
+  {
+    "Hash": 2992234556,
+    "FactName": "kab_05_shard_looted",
+    "Value": 1
+  },
+  {
+    "Hash": 3092901012,
+    "FactName": "nid_01_lizzie_psycho_info",
+    "Value": 1
+  },
+  {
+    "Hash": 3282449514,
+    "FactName": "kab_05_start",
+    "Value": 1
+  },
+  {
+    "Hash": 3499033323,
+    "FactName": "kab_05_after_confrontation",
+    "Value": 1
+  },
+  {
+    "Hash": 3555472430,
+    "FactName": "mq024_hacked_data_carrier",
+    "Value": 1
+  }
+]

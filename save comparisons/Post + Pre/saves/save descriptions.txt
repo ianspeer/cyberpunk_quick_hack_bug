@@ -1,0 +1,4 @@
+pre_119 - the newest save where the bug wasn't encountered (pre-bug).
+post_120 - the oldest save where the bug was encountered. (post-bug). 
+
+39 minutes of gameplay transpired between the two saves. post_120 when loaded was in the middle of Gig: Fixer, Merc, Soldier, Spy - just as V got to the top of the elevator and outside the penthouse by the gardens.
