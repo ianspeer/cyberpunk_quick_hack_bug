@@ -14,13 +14,14 @@ namespace CyberpunkQuestFactComparer
             var successfulFacts = ParseFacts(factsDirectory, "SuccessfulSaveQuestFacts.txt");
             var buggedFacts = ParseFacts(factsDirectory, "BuggedSaveQuestFacts.txt");
 
-            var identicalFacts = buggedFacts.ToList().Intersect(successfulFacts.ToList());          
+            var identicalFacts = buggedFacts.Intersect(successfulFacts);
             Console.WriteLine($"Found {identicalFacts.Count()} identical facts.");
             ExportFacts(factsDirectory, "identicalfacts.json", identicalFacts);
-            
+
             var factsWithDifferingValues = buggedFacts.Intersect(successfulFacts, new PartialQFEqualityComparer());
+            var pairedFactsWithDifferingValues = GetFactsWithDifferingValues(factsWithDifferingValues, buggedFacts, successfulFacts);
             Console.WriteLine($"Found {factsWithDifferingValues.Count()} facts with differing values.");
-            ExportFacts(factsDirectory, "factsWithDifferingValues.json", factsWithDifferingValues);
+            ExportFacts(factsDirectory, "factsWithDifferingValues.json", pairedFactsWithDifferingValues);
 
             var uniqueBugged = buggedFacts.Except(identicalFacts).Except(factsWithDifferingValues);
             Console.WriteLine($"{uniqueBugged.Count()} unique facts from bugged playthrough");
@@ -31,13 +32,28 @@ namespace CyberpunkQuestFactComparer
             ExportFacts(factsDirectory, "uniqueSuccessfulFacts.json", uniqueSuccessful);
         }
 
-        private static void ExportFacts(string directory, string fileName, IEnumerable<QuestFact> facts)
+        private static void ExportFacts<T>(string directory, string fileName, IEnumerable<T> facts)
         {
             var fileLocation = Path.Combine(directory, fileName);
             var options = new JsonSerializerOptions { WriteIndented = true };
             string jsonString = JsonSerializer.Serialize(facts, options);
             File.WriteAllText(fileLocation, jsonString);
-            Console.WriteLine($"Exported {fileName}\n");
+            Console.WriteLine($"Exported {fileName} with {facts.Count()} elements.\n");
+        }
+
+        private static IEnumerable<PairedQuestFact> GetFactsWithDifferingValues(
+            IEnumerable<QuestFact> differingValues,
+            IEnumerable<QuestFact> buggedFacts,
+            IEnumerable<QuestFact> successFacts)
+        {
+
+            return differingValues.Select(fact => new PairedQuestFact
+            {
+                FactName = fact.FactName,
+                Hash = fact.Hash,
+                BuggedValue = buggedFacts.FirstOrDefault(f => f.Hash == fact.Hash).Value,
+                SuccessfulValue = successFacts.FirstOrDefault(s => s.Hash == fact.Hash).Value
+            });
         }
 
         private static IEnumerable<QuestFact> ParseFacts(string directory, string fileName)
