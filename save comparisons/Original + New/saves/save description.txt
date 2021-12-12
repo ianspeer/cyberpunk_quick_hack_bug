@@ -1,0 +1,2 @@
+Bugged Save - save I originally noticed the bug on.
+Successful Save - new game with post ACT I progression where the bug has not been encountered. Using to test possible causes.
