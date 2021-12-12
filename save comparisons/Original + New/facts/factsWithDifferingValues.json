@@ -2,436 +2,523 @@
   {
     "Hash": 51513411,
     "FactName": "q101_troy3_was_hit_counter",
-    "Value": 13
+    "BuggedValue": 13,
+    "SuccessfulValue": 14
   },
   {
     "Hash": 170427044,
     "FactName": "de_std_arr_08_active",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 181167961,
     "FactName": "de_std_arr_disabled",
-    "Value": 1
+    "BuggedValue": 1,
+    "SuccessfulValue": 0
   },
   {
     "Hash": 244065111,
     "FactName": "holo_kirk_calls_v_interrupted",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 247611833,
     "FactName": "ma_outpost_tutorial",
-    "Value": 2
+    "BuggedValue": 2,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 256057083,
     "FactName": "ch05_just_ads_ad",
-    "Value": 4
+    "BuggedValue": 4,
+    "SuccessfulValue": 0
   },
   {
     "Hash": 371030959,
     "FactName": "holo_ncpd_dispatcher_calls_v_start_count",
-    "Value": 10
+    "BuggedValue": 10,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 411472976,
     "FactName": "robbery_02_thx",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 449039703,
     "FactName": "ma_resource_tutorial",
-    "Value": 30
+    "BuggedValue": 30,
+    "SuccessfulValue": 2
   },
   {
     "Hash": 508449123,
     "FactName": "de_wat_lch_11_active",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 527681779,
     "FactName": "de_wat_kab_10_active",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 545347174,
     "FactName": "de_wat_lch_disabled",
-    "Value": 1
+    "BuggedValue": 1,
+    "SuccessfulValue": 0
   },
   {
     "Hash": 623570609,
     "FactName": "de_wat_lch_04_active",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 638066348,
     "FactName": "de_wat_kab_04_active",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 746936301,
     "FactName": "web_littlechina",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 760185975,
     "FactName": "cct_dtn_cloth_01_default_on",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 777367451,
     "FactName": "la_robbery_01_pause_hit",
-    "Value": 1
+    "BuggedValue": 1,
+    "SuccessfulValue": 0
   },
   {
     "Hash": 904434476,
     "FactName": "ce_wbr_jpn_04_active",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 1038863290,
     "FactName": "coyote_community_activated",
-    "Value": 1
+    "BuggedValue": 1,
+    "SuccessfulValue": 0
   },
   {
     "Hash": 1078086142,
     "FactName": "de_std_arr_02_active",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 1085987505,
     "FactName": "holo_ncpd_dispatcher_calls_v_interrupted",
-    "Value": 1
+    "BuggedValue": 1,
+    "SuccessfulValue": 0
   },
   {
     "Hash": 1104693628,
     "FactName": "de_wat_lch_01_active",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 1136211794,
     "FactName": "de_wat_lch_07_active",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 1142165545,
     "FactName": "sq018_active",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 1450823815,
     "FactName": "emphaty_dancefloor_on",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 1456196249,
     "FactName": "de_wat_lch_08_start",
-    "Value": 20
+    "BuggedValue": 20,
+    "SuccessfulValue": 3
   },
   {
     "Hash": 1477762189,
     "FactName": "wat_lch_gunsmith_01_default_on",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 1597373601,
     "FactName": "de_wat_kab_01_active",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 1655184622,
     "FactName": "ce_wat_kab_09_deactivate",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 1878279412,
     "FactName": "holo_kirk_calls_v_end_count",
-    "Value": 2
+    "BuggedValue": 2,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 1884840476,
     "FactName": "ce_wat_lch_15_active",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 1889381173,
     "FactName": "robbery_01_thx",
-    "Value": 1
+    "BuggedValue": 1,
+    "SuccessfulValue": 2
   },
   {
     "Hash": 1958384321,
     "FactName": "de_std_arr_05_active",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 1978857438,
     "FactName": "holo_takemura_calls_v_start_count",
-    "Value": 2
+    "BuggedValue": 2,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 1991713005,
     "FactName": "de_std_arr_01_active",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 1991961401,
     "FactName": "de_wat_kab_09_active",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 2028648003,
     "FactName": "de_wat_kab_03_active",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 2040809399,
     "FactName": "holo_reggie_calls_v_start_count",
-    "Value": 46
+    "BuggedValue": 46,
+    "SuccessfulValue": 5
   },
   {
     "Hash": 2048500765,
     "FactName": "CYB-587337",
-    "Value": 1
+    "BuggedValue": 1,
+    "SuccessfulValue": 2
   },
   {
     "Hash": 2122569052,
     "FactName": "panam_default_on",
-    "Value": 1
+    "BuggedValue": 1,
+    "SuccessfulValue": 0
   },
   {
     "Hash": 2177745400,
     "FactName": "lizzies_bar_closed",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 2187801188,
     "FactName": "mirror_interactions_facials",
-    "Value": 213
+    "BuggedValue": 213,
+    "SuccessfulValue": 25
   },
   {
     "Hash": 2268502017,
     "FactName": "la_robbery_01_pause",
-    "Value": 1
+    "BuggedValue": 1,
+    "SuccessfulValue": 0
   },
   {
     "Hash": 2280417478,
     "FactName": "CYB-585136",
-    "Value": 2
+    "BuggedValue": 2,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 2345087738,
     "FactName": "web_japantown",
-    "Value": 1
+    "BuggedValue": 1,
+    "SuccessfulValue": 0
   },
   {
     "Hash": 2369890012,
     "FactName": "ce_wat_lch_06_deactivate",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 2498716082,
     "FactName": "de_wat_kab_11_active",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 2577581181,
     "FactName": "elcoyote_barman_default_on",
-    "Value": 1
+    "BuggedValue": 1,
+    "SuccessfulValue": 0
   },
   {
     "Hash": 2613696619,
     "FactName": "wbr_jpn_lookat_loop_1",
-    "Value": 1
+    "BuggedValue": 1,
+    "SuccessfulValue": 0
   },
   {
     "Hash": 2689892314,
     "FactName": "kabuki_content_tr_inside",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 2716023326,
     "FactName": "gmpl_npc_hit_by_melee_lights",
-    "Value": 201
+    "BuggedValue": 201,
+    "SuccessfulValue": 10
   },
   {
     "Hash": 2725162920,
     "FactName": "cs_bls_ina_se1_investigation_disabled",
-    "Value": 1
+    "BuggedValue": 1,
+    "SuccessfulValue": 0
   },
   {
     "Hash": 2752810015,
     "FactName": "de_std_arr_03_active",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 2900894471,
     "FactName": "holo_takemura_calls_v_end_count",
-    "Value": 2
+    "BuggedValue": 2,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 2916600806,
     "FactName": "hijack_tutorial_seen",
-    "Value": 1
+    "BuggedValue": 1,
+    "SuccessfulValue": 2
   },
   {
     "Hash": 2923345906,
     "FactName": "CYB-566041",
-    "Value": 2
+    "BuggedValue": 2,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 2962309121,
     "FactName": "gmpl_player_dodged",
-    "Value": 55
+    "BuggedValue": 55,
+    "SuccessfulValue": 4
   },
   {
     "Hash": 2985096350,
     "FactName": "ma_gang_watch_tutorial",
-    "Value": 1
+    "BuggedValue": 1,
+    "SuccessfulValue": 4
   },
   {
     "Hash": 2985237356,
     "FactName": "ch03_wns_news_ad",
-    "Value": 5
+    "BuggedValue": 5,
+    "SuccessfulValue": 0
   },
   {
     "Hash": 2996279901,
     "FactName": "weyland_default_on",
-    "Value": 1
+    "BuggedValue": 1,
+    "SuccessfulValue": 0
   },
   {
     "Hash": 3071912046,
     "FactName": "ce_pac_wwd_05_deactivate",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 3089447030,
     "FactName": "q001_rem_sig_in2",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 3091649464,
     "FactName": "de_wat_kab_08_active",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 3197292617,
     "FactName": "holo_kirk_calls_v_start_count",
-    "Value": 2
+    "BuggedValue": 2,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 3208673034,
     "FactName": "de_tutorial_board",
-    "Value": 2
+    "BuggedValue": 2,
+    "SuccessfulValue": 3
   },
   {
     "Hash": 3238044885,
     "FactName": "mq012_active",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 3252972699,
     "FactName": "street_violence_01_thx",
-    "Value": 1
+    "BuggedValue": 1,
+    "SuccessfulValue": 3
   },
   {
     "Hash": 3278906124,
     "FactName": "cs_wat_kab_int_003_active",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 3281897440,
     "FactName": "de_std_arr_04_active",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 3361998084,
     "FactName": "mama_welles_default_on",
-    "Value": 1
+    "BuggedValue": 1,
+    "SuccessfulValue": 0
   },
   {
     "Hash": 3362275983,
     "FactName": "de_wat_lch_02_active",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 3400682422,
     "FactName": "holo_ncpd_dispatcher_calls_v_end_count",
-    "Value": 10
+    "BuggedValue": 10,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 3517637600,
     "FactName": "scene_lizzies_prostitutes_active",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 3545917017,
     "FactName": "q103_active",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 3557731407,
     "FactName": "misty_default_on",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 3558211678,
     "FactName": "de_wat_kab_06_active",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 3705410933,
     "FactName": "rogue_default_on",
-    "Value": 1
+    "BuggedValue": 1,
+    "SuccessfulValue": 0
   },
   {
     "Hash": 3716619929,
     "FactName": "q003_flux_capasitor_fast",
-    "Value": 1
+    "BuggedValue": 1,
+    "SuccessfulValue": 0
   },
   {
     "Hash": 3729968057,
     "FactName": "sq032_tapeworm_stage",
-    "Value": 3
+    "BuggedValue": 3,
+    "SuccessfulValue": 2
   },
   {
     "Hash": 3751078861,
     "FactName": "de_wat_kab_05_active",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 3755113061,
     "FactName": "de_wat_kab_disabled",
-    "Value": 1
+    "BuggedValue": 1,
+    "SuccessfulValue": 0
   },
   {
     "Hash": 3868388322,
     "FactName": "de_std_arr_06_active",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 3962358336,
     "FactName": "holo_wakako_calls_v_start_count",
-    "Value": 13
+    "BuggedValue": 13,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 4024017774,
     "FactName": "holo_reggie_calls_v_end_count",
-    "Value": 46
+    "BuggedValue": 46,
+    "SuccessfulValue": 5
   },
   {
     "Hash": 4165782253,
     "FactName": "holo_wakako_calls_v_end_count",
-    "Value": 13
+    "BuggedValue": 13,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 4170957076,
     "FactName": "de_wat_lch_09_active",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 4237721368,
     "FactName": "q101_troy2_was_hit_counter",
-    "Value": 4
+    "BuggedValue": 4,
+    "SuccessfulValue": 7
   }
 ]

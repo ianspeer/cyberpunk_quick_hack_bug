@@ -2,211 +2,253 @@
   {
     "Hash": 19852697,
     "FactName": "de_wat_nid_13_active",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 57616097,
     "FactName": "cs_wat_kab_investigation_disabled",
-    "Value": 1
+    "BuggedValue": 1,
+    "SuccessfulValue": 0
   },
   {
     "Hash": 256057083,
     "FactName": "ch05_just_ads_ad",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 5
   },
   {
     "Hash": 277426362,
     "FactName": "de_wat_nid_10_active",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 317132979,
     "FactName": "ce_wat_lch_12_active",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 527681779,
     "FactName": "de_wat_kab_10_active",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 545347174,
     "FactName": "de_wat_lch_disabled",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 553764699,
     "FactName": "de_wat_nid_11_active",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 623570609,
     "FactName": "de_wat_lch_04_active",
-    "Value": 1
+    "BuggedValue": 1,
+    "SuccessfulValue": 0
   },
   {
     "Hash": 638066348,
     "FactName": "de_wat_kab_04_active",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 694980120,
     "FactName": "de_wat_nid_12_active",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 844374945,
     "FactName": "web_nid",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 1015270493,
     "FactName": "de_wat_nid_08_active",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 1104693628,
     "FactName": "de_wat_lch_01_active",
-    "Value": 1
+    "BuggedValue": 1,
+    "SuccessfulValue": 0
   },
   {
     "Hash": 1149495571,
     "FactName": "wat_achievement",
-    "Value": 36
+    "BuggedValue": 36,
+    "SuccessfulValue": 34
   },
   {
     "Hash": 1242024230,
     "FactName": "de_wat_nid_03_active",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 1456196249,
     "FactName": "de_wat_lch_08_start",
-    "Value": 15
+    "BuggedValue": 15,
+    "SuccessfulValue": 12
   },
   {
     "Hash": 1655184622,
     "FactName": "ce_wat_kab_09_deactivate",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 1817331766,
     "FactName": "de_wat_nid_14_active",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 1845290410,
     "FactName": "de_wat_nid_07_active",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 1991961401,
     "FactName": "de_wat_kab_09_active",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 2028648003,
     "FactName": "de_wat_kab_03_active",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 2040809399,
     "FactName": "holo_reggie_calls_v_start_count",
-    "Value": 41
+    "BuggedValue": 41,
+    "SuccessfulValue": 38
   },
   {
     "Hash": 2177745400,
     "FactName": "lizzies_bar_closed",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 2187801188,
     "FactName": "mirror_interactions_facials",
-    "Value": 125
+    "BuggedValue": 125,
+    "SuccessfulValue": 122
   },
   {
     "Hash": 2403439731,
     "FactName": "ch04_wns_show_ad",
-    "Value": 1
+    "BuggedValue": 1,
+    "SuccessfulValue": 0
   },
   {
     "Hash": 2474729723,
     "FactName": "execution_02_thx",
-    "Value": 1
+    "BuggedValue": 1,
+    "SuccessfulValue": 0
   },
   {
     "Hash": 2498716082,
     "FactName": "de_wat_kab_11_active",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 2717814163,
     "FactName": "de_wat_lch_06_active",
-    "Value": 1
+    "BuggedValue": 1,
+    "SuccessfulValue": 0
   },
   {
     "Hash": 2962309121,
     "FactName": "gmpl_player_dodged",
-    "Value": 37
+    "BuggedValue": 37,
+    "SuccessfulValue": 36
   },
   {
     "Hash": 3091649464,
     "FactName": "de_wat_kab_08_active",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 3180465003,
     "FactName": "web_kabuki",
-    "Value": 1
+    "BuggedValue": 1,
+    "SuccessfulValue": 0
   },
   {
     "Hash": 3208673034,
     "FactName": "de_tutorial_board",
-    "Value": 10
+    "BuggedValue": 10,
+    "SuccessfulValue": 8
   },
   {
     "Hash": 3310166286,
     "FactName": "de_wat_nid_disabled",
-    "Value": 1
+    "BuggedValue": 1,
+    "SuccessfulValue": 0
   },
   {
     "Hash": 3362275983,
     "FactName": "de_wat_lch_02_active",
-    "Value": 1
+    "BuggedValue": 1,
+    "SuccessfulValue": 0
   },
   {
     "Hash": 3558211678,
     "FactName": "de_wat_kab_06_active",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 3739638411,
     "FactName": "de_wat_nid_06_active",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 3751078861,
     "FactName": "de_wat_kab_05_active",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 3755113061,
     "FactName": "de_wat_kab_disabled",
-    "Value": 1
+    "BuggedValue": 1,
+    "SuccessfulValue": 0
   },
   {
     "Hash": 4024017774,
     "FactName": "holo_reggie_calls_v_end_count",
-    "Value": 41
+    "BuggedValue": 41,
+    "SuccessfulValue": 38
   },
   {
     "Hash": 4034583604,
     "FactName": "ce_wat_nid_02_deactivate",
-    "Value": 0
+    "BuggedValue": 0,
+    "SuccessfulValue": 1
   },
   {
     "Hash": 4170957076,
     "FactName": "de_wat_lch_09_active",
-    "Value": 1
+    "BuggedValue": 1,
+    "SuccessfulValue": 0
   }
 ]
