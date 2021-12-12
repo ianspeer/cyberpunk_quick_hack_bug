@@ -14,7 +14,14 @@ There are a number of terminals with increased rate to receive legendaries. It's
 
 
 # Testing
-Both the bugged and successful playthroughs are running on patch 1.31. The bugged playthrough was where I first encountered the bug. Since I wasn't able to find a previous save on the same playthrough where the bug wasn't present, I created a new playthrough which is referred to as the successful run.
+All saves, unless otherwise indicated, are running on patch 1.31.
+
+## Testing methods
+ 1) Load save.
+ 2) Give character 12 int and Virtuoso perk to speed testing via Simple Menu mod.
+ 3) Use Simple Menu mod to teleport to previously marked location (i.e. in front of an access point from Gig: Serial Suicide).
+ 4) Test nearby access points that require 10 int from Gig: Serial Suicide.
+ 5) Re-load save and repeat.
 
 ## Leads
 - [Spreadsheet](https://docs.google.com/spreadsheets/d/1c7ecwMkDuBdhVa_tihP4BBcrnbKVNVzieakJS2CGlj0/edit?usp=sharing) with bugged/successful attempts. This also keeps track of different fixes that have been attempted and a list of fixes to try.
@@ -22,10 +29,8 @@ Both the bugged and successful playthroughs are running on patch 1.31. The bugge
 - Quest Fact comparison
   - Quest facts have been exported from the saves and separated into:
     - factsWithDifferingValues.json - facts that match on hash and name, but have a different value. 
-      - TODO: show value from each save rather than just one value.
     - identicalfacts.json - facts that match on hash, name, and value.
     - uniqueBuggedFacts.json - facts that only exist in the bugged playthrough
-      - the bugged playthrough had a lot more gameplay, so I'd expect this file to be different
     - uniqueSuccessfulFacts.json - facts that only exist in the successful playthrough
     
 ## Dead Ends
