@@ -11,8 +11,6 @@ If you'd like to contribute, please create a pull request or request access to t
 ### Minimum Requirements to receive (legendary) quick hacks
 There are a number of terminals with increased rate to receive legendaries. It's possible to glitch/cheat out of Watson directly after The Rescue and receive a quickhack at the terminals in the Serial Suicide mission. The only requirements seem to be the minimum level of int to hack the console (10). There is a lower chance, but you can receive legendary quickhacks at level 3 int as outlined in [this video](https://www.youtube.com/watch?v=03IFHh7vNXI).
 
-
-
 # Testing
 All saves, unless otherwise indicated, are running on patch 1.31.
 
@@ -32,12 +30,14 @@ All saves, unless otherwise indicated, are running on patch 1.31.
     - identicalfacts.json - facts that match on hash, name, and value.
     - uniqueBuggedFacts.json - facts that only exist in the bugged playthrough
     - uniqueSuccessfulFacts.json - facts that only exist in the successful playthrough
+
+ - The [CyberCAT SimpleGUI Save Editor](https://www.nexusmods.com/cyberpunk2077/mods/718) was forked to allow importing quest facts to a given save. After finding the save where the bug was first encountered, I imported the full list of quest facts from the working save 39 minutes prior. This failed to fix the issue. 
+ - Some quest facts are changed on load/during runtime, so some additional testing is required before ruling this out as a potential fix.
     
 ## Dead Ends
 - Cybertweak game logs for successful and bugged attempts.
   - The [cybertweak images folder](https://github.com/ianspeer/cyberpunk_quick_hack_bug/tree/master/cybertweak%20images) contains screenshots of the logs from each attempt.
   - The logs don't seem to indicate any problem.
-
 
 ### Useful tools
  - [Cyber Engine Tweaks](https://wiki.redmodding.org/cyber-engine-tweaks/) for game debug messages, commands, and running other tools.
