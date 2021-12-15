@@ -24,20 +24,19 @@ All saves, unless otherwise indicated, are running on patch 1.31.
 ## Leads
 - [Spreadsheet](https://docs.google.com/spreadsheets/d/1c7ecwMkDuBdhVa_tihP4BBcrnbKVNVzieakJS2CGlj0/edit?usp=sharing) with bugged/successful attempts. This also keeps track of different fixes that have been attempted and a list of fixes to try.
   
+## Dead Ends
+- Cybertweak game logs for successful and bugged attempts.
+  - The [cybertweak images folder](https://github.com/ianspeer/cyberpunk_quick_hack_bug/tree/master/cybertweak%20images) contains screenshots of the logs from each attempt.
+  - The logs don't seem to indicate any problem.
+
 - Quest Fact comparison
   - Quest facts have been exported from the saves and separated into:
     - factsWithDifferingValues.json - facts that match on hash and name, but have a different value. 
     - identicalfacts.json - facts that match on hash, name, and value.
     - uniqueBuggedFacts.json - facts that only exist in the bugged playthrough
     - uniqueSuccessfulFacts.json - facts that only exist in the successful playthrough
-
  - The [CyberCAT SimpleGUI Save Editor](https://www.nexusmods.com/cyberpunk2077/mods/718) was forked to allow importing quest facts to a given save. After finding the save where the bug was first encountered, I imported the full list of quest facts from the working save 39 minutes prior. This failed to fix the issue. 
- - Some quest facts are changed on load/during runtime, so some additional testing is required before ruling this out as a potential fix.
-    
-## Dead Ends
-- Cybertweak game logs for successful and bugged attempts.
-  - The [cybertweak images folder](https://github.com/ianspeer/cyberpunk_quick_hack_bug/tree/master/cybertweak%20images) contains screenshots of the logs from each attempt.
-  - The logs don't seem to indicate any problem.
+ - Some quest facts are changed on load/during runtime, ~~so some additional testing is required before ruling this out as a potential fix.~~
 
 ### Useful tools
  - [Cyber Engine Tweaks](https://wiki.redmodding.org/cyber-engine-tweaks/) for game debug messages, commands, and running other tools.
